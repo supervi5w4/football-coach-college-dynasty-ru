@@ -7,7 +7,7 @@
 
 Неофициальный русский перевод **Football Coach: College Dynasty**, менеджера студенческой команды по **американскому футболу**.
 
-**[Скачать русификатор 0.2.0](https://github.com/supervi5w4/football-coach-college-dynasty-ru/raw/refs/heads/main/packages/FCCD-RU-0.2.0.zip)** · [Релизы](https://github.com/supervi5w4/football-coach-college-dynasty-ru/releases) · [История изменений](CHANGELOG.md) · [Сообщить о проблеме](https://github.com/supervi5w4/football-coach-college-dynasty-ru/issues/new/choose)
+**[Скачать русификатор 0.2.0](https://github.com/supervi5w4/football-coach-college-dynasty-ru/releases/download/v0.2.0/FCCD-RU-0.2.0.zip)** · [Релизы](https://github.com/supervi5w4/football-coach-college-dynasty-ru/releases) · [История изменений](CHANGELOG.md) · [Сообщить о проблеме](https://github.com/supervi5w4/football-coach-college-dynasty-ru/issues/new/choose)
 
 Скачивайте **FCCD-RU-0.2.0.zip**. Кнопка GitHub «Code → Download ZIP» скачивает исходники проекта; готовый установочный архив находится в папке `packages`.
 
@@ -42,7 +42,7 @@
 
 ## Установка
 
-1. Скачайте **[FCCD-RU-0.2.0.zip](https://github.com/supervi5w4/football-coach-college-dynasty-ru/raw/refs/heads/main/packages/FCCD-RU-0.2.0.zip)** и распакуйте **весь архив** в отдельную папку.
+1. Скачайте **[FCCD-RU-0.2.0.zip](https://github.com/supervi5w4/football-coach-college-dynasty-ru/releases/download/v0.2.0/FCCD-RU-0.2.0.zip)** и распакуйте **весь архив** в отдельную папку.
 2. Полностью закройте игру.
 3. Запустите **`INSTALL.cmd`** из распакованной папки.
 4. Дождитесь сообщения об успешной установке и запускайте игру через Steam.

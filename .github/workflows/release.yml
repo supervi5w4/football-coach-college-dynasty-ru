@@ -2,7 +2,7 @@ name: Публикация релиза
 on:
   push:
     branches: [main]
-    paths: ['packages/FCCD-RU-0.2.0.zip']
+    paths: ['packages/FCCD-RU-0.2.0.zip', 'docs/releases/0.2.0.md']
   workflow_dispatch:
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
           GH_REPO: ${{ github.repository }}
         run: |
           if gh release view v0.2.0 >/dev/null 2>&1; then
-            echo 'Release v0.2.0 already exists; leaving it unchanged.'
+            gh release edit v0.2.0 --notes-file docs/releases/0.2.0.md
             exit 0
           fi
           gh release create v0.2.0 \
