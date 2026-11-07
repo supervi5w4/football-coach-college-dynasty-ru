@@ -1,0 +1,25 @@
+name: Ошибка или пропуск перевода
+description: Английский текст, неверный термин или проблема отображения
+title: "[Перевод] "
+body:
+  - type: input
+    id: game-version
+    attributes:
+      label: Версия игры и сборка Steam
+      placeholder: "1.6.5, build 19732424"
+    validations:
+      required: true
+  - type: input
+    id: patch-version
+    attributes:
+      label: Версия русификатора
+      placeholder: "0.2.0"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Где и какой текст показан
+      description: Укажите экран, точную фразу и желаемую правку. Скриншот можно приложить сюда.
+    validations:
+      required: true

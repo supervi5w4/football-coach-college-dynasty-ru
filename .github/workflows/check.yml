@@ -1,0 +1,26 @@
+name: Проверки
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: '22'
+      - run: python tools/build.py
+      - run: node tests/translator.mjs
+      - run: node tests/templates.mjs
+      - run: node tests/news.mjs
+      - run: python tools/verify_package.py

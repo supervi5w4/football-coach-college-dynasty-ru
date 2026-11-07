@@ -1,0 +1,4606 @@
+[
+  [
+    "Coached {0}",
+    "Подготовлен {0}"
+  ],
+  [
+    "({0} games remaining)",
+    "Осталось матчей · {0}"
+  ],
+  [
+    "{0} attempts",
+    "Попытки · {0}"
+  ],
+  [
+    "{0} targets",
+    "Адресованные пасы · {0}"
+  ],
+  [
+    "{0} KO returns",
+    "Возвраты начальных ударов · {0}"
+  ],
+  [
+    "{0} punt returns",
+    "Возвраты пантов · {0}"
+  ],
+  [
+    "{0} FG att",
+    "Попытки филд-гола · {0}"
+  ],
+  [
+    "{0} XP att",
+    "Попытки одноочковой реализации · {0}"
+  ],
+  [
+    "{0} punts",
+    "Панты · {0}"
+  ],
+  [
+    "{0} has not won any championships as a head coach.",
+    "{0} ещё не выигрывал чемпионаты главным тренером."
+  ],
+  [
+    "{0} has won",
+    "{0} выиграл"
+  ],
+  [
+    "{0} as a head coach.",
+    "{0} в должности главного тренера."
+  ],
+  [
+    "No recent draft picks at {0} for {1}.",
+    "За последние годы на позиции {1} в {0} не было выбранных на драфте."
+  ],
+  [
+    "({0} first round)",
+    "из них в первом раунде · {0}"
+  ],
+  [
+    "{0} has had {1} at {2} in the last 5 years{3}.",
+    "В {0} за последние 5 лет подготовлены {1} на позиции {2}{3}."
+  ],
+  [
+    "New {0} is in their first year at {1} and building a foundation.",
+    "Новый {0} проводит первый год в {1} и закладывает основы."
+  ],
+  [
+    "{0} is on the hot seat, with {1} AD coach opinion ({2}).",
+    "{0} находится на грани увольнения. Отношение спортивного директора · {1} ({2})."
+  ],
+  [
+    "{0} is {1} by their AD and won't be fired anytime soon.",
+    "{0} · отношение директора {1}. Увольнение в ближайшее время маловероятно."
+  ],
+  [
+    "{0} is in {1} standing at {2}, with low risk to be fired soon.",
+    "{0} · положение в {2} оценивается как {1}. Риск скорого увольнения невелик."
+  ],
+  [
+    "{0} played for {1} ({2}) and {3} ({4}).",
+    "{0} выступал за {1} ({2}) и {3} ({4})."
+  ],
+  [
+    "{0} played for {1} in {2}.",
+    "{0} выступал за {1} в {2}."
+  ],
+  [
+    "{0} has never played for {1} or {2}.",
+    "{0} никогда не выступал за {1} или {2}."
+  ],
+  [
+    "{0} is from {1}, which is {2} this recruit's hometown.",
+    "{0} родом из {1}, что {2} родного города кандидата."
+  ],
+  [
+    "Neither the {0} are from the same area as the recruit.",
+    "Никто из {0} не родом из того же района, что кандидат."
+  ],
+  [
+    "{0} visit bonus",
+    "Бонус визита · {0}"
+  ],
+  [
+    "Too many other {0} visitors",
+    "Слишком много других гостей на позиции {0}"
+  ],
+  [
+    "Playing against {0}",
+    "Матч против {0}"
+  ],
+  [
+    "Won against {0}",
+    "Победа над {0}"
+  ],
+  [
+    "Certified classic bonus [{0}]",
+    "Бонус признанной классики [{0}]"
+  ],
+  [
+    "Updated {0} ago",
+    "Обновлено {0} назад"
+  ],
+  [
+    "{0} years",
+    "{0} лет"
+  ],
+  [
+    "{0} months",
+    "{0} месяцев"
+  ],
+  [
+    "{0} days",
+    "{0} дней"
+  ],
+  [
+    "{0} hrs",
+    "{0} ч."
+  ],
+  [
+    "{0} min",
+    "{0} мин."
+  ],
+  [
+    "{0} sec",
+    "{0} сек."
+  ],
+  [
+    "{0} Team All-{1} {2}",
+    "Сборная {1}, состав {0} · {2}"
+  ],
+  [
+    "Win {0}+ games.",
+    "Выиграть не менее {0} матчей."
+  ],
+  [
+    "Win {0}+ conference games.",
+    "Выиграть не менее {0} матчей конференции."
+  ],
+  [
+    "Beat {0} (division rival).",
+    "Победить {0}, принципиального соперника по дивизиону."
+  ],
+  [
+    "Win {0} games in a row.",
+    "Выиграть подряд матчей · {0}."
+  ],
+  [
+    "Beat {0} (OOC rival).",
+    "Победить {0}, принципиального внешнего соперника."
+  ],
+  [
+    "Win against {0}.",
+    "Победить {0}."
+  ],
+  [
+    "Score {0} or more points per game {1}.",
+    "Набирать в среднем не менее {0} очков за матч {1}."
+  ],
+  [
+    "Have {0} or more yards per game {1}.",
+    "Набирать в среднем не менее {0} ярдов за матч {1}."
+  ],
+  [
+    "Have {0} or more 20+ yard plays {1}.",
+    "Совершить не менее {0} розыгрышей на 20+ ярдов {1}."
+  ],
+  [
+    "Have {0} or more 40+ yard plays {1}.",
+    "Совершить не менее {0} розыгрышей на 40+ ярдов {1}."
+  ],
+  [
+    "Convert a min {0}% of third downs {1}.",
+    "Реализовать не менее {0}% третьих даунов {1}."
+  ],
+  [
+    "Convert {0} fourth downs total {1}.",
+    "Реализовать четвёртый даун не менее {0} раз {1}."
+  ],
+  [
+    "Have {0} or fewer total turnovers {1}.",
+    "Допустить не более {0} потерь мяча {1}."
+  ],
+  [
+    "Hold opponents to less than {0} points per game {1}.",
+    "Пропускать менее {0} очков за матч {1}."
+  ],
+  [
+    "Hold opponents to less than {0} yards per game {1}.",
+    "Позволять соперникам набирать менее {0} ярдов за матч {1}."
+  ],
+  [
+    "Hold opponents to less than {0}% third down conversions {1}.",
+    "Удержать реализацию третьих даунов соперников ниже {0}% {1}."
+  ],
+  [
+    "Have {0}+ takeaways {1}.",
+    "Вынудить не менее {0} потерь мяча {1}."
+  ],
+  [
+    "Have {0}+ total passing yards {1}.",
+    "Набрать пасом не менее {0} ярдов {1}."
+  ],
+  [
+    "Throw {0}+ total pass touchdowns {1}.",
+    "Сделать не менее {0} пасовых тачдаунов {1}."
+  ],
+  [
+    "Throw {0} or fewer interceptions {1}.",
+    "Бросить не более {0} перехватов {1}."
+  ],
+  [
+    "Have a single player record {0}+ receiving yards {1}.",
+    "Один игрок должен набрать приёмом не менее {0} ярдов {1}."
+  ],
+  [
+    "Have {0}+ total rushing yards {1}.",
+    "Набрать выносом не менее {0} ярдов {1}."
+  ],
+  [
+    "Score {0}+ rushing touchdowns {1}.",
+    "Занести выносом не менее {0} тачдаунов {1}."
+  ],
+  [
+    "Have a single player record {0}+ rushing yards {1}.",
+    "Один игрок должен набрать выносом не менее {0} ярдов {1}."
+  ],
+  [
+    "Have your OL record {0}+ total pancakes {1}.",
+    "Линия нападения должна выполнить не менее {0} блоков с опрокидыванием {1}."
+  ],
+  [
+    "Hold opponents to less than {0} pass yards per game. {1}",
+    "Позволять соперникам набирать пасом менее {0} ярдов за матч. {1}"
+  ],
+  [
+    "Get {0}+ defensive interceptions {1}.",
+    "Сделать в защите не менее {0} перехватов {1}."
+  ],
+  [
+    "Hold opponents to less than {0} rush yards per game {1}.",
+    "Позволять соперникам набирать выносом менее {0} ярдов за матч {1}."
+  ],
+  [
+    "Sack the opposing QB {0}+ times {1}.",
+    "Сделать не менее {0} сэков квотербека соперника {1}."
+  ],
+  [
+    "Force {0}+ fumbles on defense {1}.",
+    "Вынудить в защите не менее {0} фамблов {1}."
+  ],
+  [
+    "{0} in at least {1} {2}.",
+    "{0} как минимум в {1} {2}."
+  ],
+  [
+    "{0} against {1}.",
+    "{0} против {1}."
+  ],
+  [
+    "Score {0}+ points",
+    "Набрать не менее {0} очков"
+  ],
+  [
+    "Gain {0}+ yards",
+    "Набрать не менее {0} ярдов"
+  ],
+  [
+    "Pass for {0}+ yards",
+    "Набрать пасом не менее {0} ярдов"
+  ],
+  [
+    "Rush for {0}+ yards",
+    "Набрать выносом не менее {0} ярдов"
+  ],
+  [
+    "Hold at least {0} {1} to {2}.",
+    "Не дать как минимум {0} {1} набрать более {2}."
+  ],
+  [
+    "Hold {0} to {1}.",
+    "Не дать {0} набрать более {1}."
+  ],
+  [
+    "Will play {0} on week {1}",
+    "Матч против {0} на неделе {1}"
+  ],
+  [
+    "{0} awarded All-Conference honors",
+    "{0} попал в сборную конференции"
+  ],
+  [
+    "No {0}s won All-Conference",
+    "Ни один игрок позиции {0} не попал в сборную конференции"
+  ],
+  [
+    "{0} awarded All-American honors",
+    "{0} попал в сборную страны"
+  ],
+  [
+    "No {0}s are All-Americans",
+    "Ни один игрок позиции {0} не попал в сборную страны"
+  ],
+  [
+    "{0} opp rush YPG",
+    "Ярды соперника выносом за матч · {0}"
+  ],
+  [
+    "{0} def sacks",
+    "Сэки защиты · {0}"
+  ],
+  [
+    "{0} def forced fumbles",
+    "Фамблы, вынужденные защитой · {0}"
+  ],
+  [
+    "{0} opp pass YPG",
+    "Ярды соперника пасом за матч · {0}"
+  ],
+  [
+    "{0} def interceptions",
+    "Перехваты защиты · {0}"
+  ],
+  [
+    "{0} pass yards",
+    "Ярды пасом · {0}"
+  ],
+  [
+    "{0} pass touchdowns",
+    "Пасовые тачдауны · {0}"
+  ],
+  [
+    "{0} interceptions",
+    "Перехваты · {0}"
+  ],
+  [
+    "{0} yards for top receiver",
+    "Ярды лучшего принимающего · {0}"
+  ],
+  [
+    "{0} rush yards",
+    "Ярды выносом · {0}"
+  ],
+  [
+    "{0} rush TDs",
+    "Тачдауны выносом · {0}"
+  ],
+  [
+    "{0} yards for top rusher",
+    "Ярды лучшего раннинбека · {0}"
+  ],
+  [
+    "{0} pancakes",
+    "Блоки с опрокидыванием · {0}"
+  ],
+  [
+    "{0} opp PPG",
+    "Очки соперника за матч · {0}"
+  ],
+  [
+    "{0} opp YPG",
+    "Ярды соперника за матч · {0}"
+  ],
+  [
+    "{0}% opp third down conv%",
+    "Реализация третьих даунов соперника · {0}%"
+  ],
+  [
+    "{0} opp turnovers",
+    "Потери соперника · {0}"
+  ],
+  [
+    "{0} PPG",
+    "Очки за матч · {0}"
+  ],
+  [
+    "{0} YPG",
+    "Ярды за матч · {0}"
+  ],
+  [
+    "{0} total 20+ yd plays",
+    "Всего розыгрышей на 20+ ярдов · {0}"
+  ],
+  [
+    "{0} total 40+ yd plays",
+    "Всего розыгрышей на 40+ ярдов · {0}"
+  ],
+  [
+    "{0}% third down conv%",
+    "Реализация третьих даунов · {0}%"
+  ],
+  [
+    "{0} fourth down conversions",
+    "Реализации четвёртых даунов · {0}"
+  ],
+  [
+    "{0} turnovers",
+    "Потери · {0}"
+  ],
+  [
+    "{0} conference wins",
+    "Победы в конференции · {0}"
+  ],
+  [
+    "{0} wins",
+    "Победы · {0}"
+  ],
+  [
+    "Longest win streak of {0}",
+    "Самая длинная серия побед · {0}"
+  ],
+  [
+    "{0} {1} points",
+    "{0} {1} очков"
+  ],
+  [
+    "{0} {1} yards",
+    "{0} {1} ярдов"
+  ],
+  [
+    "{0} meeting condition",
+    "Выполнили условие · {0}"
+  ],
+  [
+    "{0} against {1}",
+    "{0} против {1}"
+  ],
+  [
+    "Have upcoming game against {0}",
+    "Предстоит матч против {0}"
+  ],
+  [
+    "Succeeded against {0}{1}",
+    "Успех против {0}{1}"
+  ],
+  [
+    "Have {0} remaining",
+    "Осталось · {0}"
+  ],
+  [
+    "Failed against {0}",
+    "Неудача против {0}"
+  ],
+  [
+    "{0} AND {1}",
+    "{0} И {1}"
+  ],
+  [
+    "{0} OR {1}",
+    "{0} ИЛИ {1}"
+  ],
+  [
+    "Win at least {0} games",
+    "Выиграть не менее {0} матчей"
+  ],
+  [
+    "Win at least {0} conference games",
+    "Выиграть не менее {0} матчей конференции"
+  ],
+  [
+    "Finish ranked in the top {0}",
+    "Завершить сезон в топ-{0}"
+  ],
+  [
+    "Beat {0} (rival)",
+    "Победить принципиального соперника {0}"
+  ],
+  [
+    "{0} xp",
+    "Опыт · {0}"
+  ],
+  [
+    "Voted as conference coach of the year for {0}.",
+    "Выбран тренером года в конференции в {0}."
+  ],
+  [
+    "Voted as the national coach of the year for {0}.",
+    "Выбран тренером года страны в {0}."
+  ],
+  [
+    "{0} expectations",
+    "Ожидания · {0}"
+  ],
+  [
+    "You gain or lose XP based on the expectations set by your {0}.",
+    "Опыт начисляется или снимается по выполнению ожиданий руководителя {0}."
+  ],
+  [
+    "Gained {0} experience per win.",
+    "Опыт за победу · {0}."
+  ],
+  [
+    "Made the playoffs as the {0} seed.",
+    "Выход в плей-офф с посевом № {0}."
+  ],
+  [
+    "Coached {0} talent level",
+    "Руководство командой силы {0}"
+  ],
+  [
+    "Offense talent was ranked #{0} but offense was #{1} by production (PPG).",
+    "По классу игроков нападение занимало место № {0}, по очкам за матч — № {1}."
+  ],
+  [
+    "Defense talent was ranked #{0} but defense was #{1} by production (OPPG).",
+    "По классу игроков защита занимала место № {0}, по пропущенным очкам за матч — № {1}."
+  ],
+  [
+    "School academics level of {0} grants +{1}% bonus experience.",
+    "Уровень образования {0} даёт бонус опыта +{1}%."
+  ],
+  [
+    "School academics level of {0} has a {1}% experience gain penalty.",
+    "Уровень образования {0} даёт штраф опыта {1}%."
+  ],
+  [
+    "Coaches older than 60 lose {0}% of their total experience each year.",
+    "Тренеры старше 60 ежегодно теряют {0}% общего опыта."
+  ],
+  [
+    "Coaches younger than 40 gain {0} per year as they learn.",
+    "Тренеры младше 40 ежегодно получают {0} опыта благодаря обучению."
+  ],
+  [
+    "Average {0} YPG or better in conference play",
+    "Набирать не менее {0} ярдов за матч конференции"
+  ],
+  [
+    "Allow {0} YPG or fewer in conference play",
+    "Позволять сопернику набирать не более {0} ярдов за матч конференции"
+  ],
+  [
+    "{0} {1} yards per game in conference play{2}.",
+    "{0} {1} ярдов за матч конференции{2}."
+  ],
+  [
+    "Defensive practice focus bonuses are {0}% more effective, and gain +1 audible per quarter.",
+    "Бонус защитного акцента эффективнее на {0}%. Дополнительно одна смена комбинации на линии за четверть."
+  ],
+  [
+    "All defensive players get +{0} Tackling and Pursuit in games.",
+    "Все защитники получают +{0} к захватам и преследованию в матчах."
+  ],
+  [
+    "All defensive players get +{0} Block Shedding in games.",
+    "Все защитники получают +{0} к преодолению блоков в матчах."
+  ],
+  [
+    "All defensive players get +{0} Zone Coverage in games.",
+    "Все защитники получают +{0} к зонному прикрытию в матчах."
+  ],
+  [
+    "CBs get +{0} Man Coverage in games.",
+    "Корнербеки получают +{0} к персональному прикрытию в матчах."
+  ],
+  [
+    "All defensive players get +{0} Speed in games.",
+    "Все защитники получают +{0} к скорости в матчах."
+  ],
+  [
+    "All defensive players get +{0} Strength in games.",
+    "Все защитники получают +{0} к силе в матчах."
+  ],
+  [
+    "All defensive players get +{0} Defensive IQ in games.",
+    "Все защитники получают +{0} к игровому интеллекту защиты в матчах."
+  ],
+  [
+    "Defense gains +{0} Strength in goal line situations (own 5 yd line or less).",
+    "Защита получает +{0} к силе у своей зачётной зоны, на 5 ярдах и ближе."
+  ],
+  [
+    "Defense gains +{0} Block Shedding on blitz plays.",
+    "Защита получает +{0} к преодолению блоков при блице."
+  ],
+  [
+    "Defense gains +{0} Man and Zone Coverage on 3rd downs.",
+    "Защита получает +{0} к персональному и зонному прикрытию на третьем дауне."
+  ],
+  [
+    "Defense gains +{0} to all defensive attributes when facing Option Run and RPO plays.",
+    "Защита получает +{0} ко всем профильным характеристикам против опционных выносов и RPO."
+  ],
+  [
+    "Defense gains +{0} Tackling and Pursuit when facing QB runs and scrambles.",
+    "Защита получает +{0} к захватам и преследованию против выносов квотербека и скрэмблов."
+  ],
+  [
+    "Defense gains +{0} to all defensive attributes in the 1st quarter.",
+    "Защита получает +{0} ко всем профильным характеристикам в первой четверти."
+  ],
+  [
+    "Offensive practice focus bonuses are {0}% more effective, and gain +1 audible per quarter.",
+    "Бонус атакующего акцента эффективнее на {0}%. Дополнительно одна смена комбинации на линии за четверть."
+  ],
+  [
+    "QB, RB, WR, and TE all get +{0} Ball Carrier Vision and Quarterback IQ in games.",
+    "Квотербеки, раннинбеки, ресиверы и тайт-энды получают +{0} к видению поля с мячом и интеллекту квотербека в матчах."
+  ],
+  [
+    "QBs get +{0} Arm Strength and Accuracy in games.",
+    "Квотербеки получают +{0} к силе броска и точности в матчах."
+  ],
+  [
+    "All skill players get +{0} Catching and Route Running in games.",
+    "Все скилл-игроки получают +{0} к ловле и маршрутам в матчах."
+  ],
+  [
+    "Players get +{0} Ball Security in games.",
+    "Игроки получают +{0} к сохранению мяча в матчах."
+  ],
+  [
+    "All skill players get +{0} Evasion and Speed in games.",
+    "Все скилл-игроки получают +{0} к уклонению и скорости в матчах."
+  ],
+  [
+    "All OL get +{0} Run Blocking in games.",
+    "Все линейные нападения получают +{0} к блоку на выносе."
+  ],
+  [
+    "All OL get +{0} Pass Blocking in games.",
+    "Все линейные нападения получают +{0} к блоку на пасе."
+  ],
+  [
+    "All TE get +{0} Run and Pass Blocking in games.",
+    "Все тайт-энды получают +{0} к блоку на выносе и пасе."
+  ],
+  [
+    "QBs gain +{0} Evasion when being blitzed.",
+    "Квотербеки получают +{0} к уклонению против блица."
+  ],
+  [
+    "RBs gain +{0} Strength in goal line situations (opp 5 yd line or more).",
+    "Раннинбеки получают +{0} к силе на 5 ярдах и ближе к зачётной зоне соперника."
+  ],
+  [
+    "WRs gain +{0} Speed and Evasion as the ball carrier in rushing plays.",
+    "Ресиверы получают +{0} к скорости и уклонению при беге с мячом в выносных розыгрышах."
+  ],
+  [
+    "OL gain +{0} Pass Blocking on 3rd and long (7+ yards).",
+    "Линейные нападения получают +{0} к блоку на пасе на третьем дауне при 7+ ярдах до первого."
+  ],
+  [
+    "WRs gain +{0} Speed on deep pass plays.",
+    "Ресиверы получают +{0} к скорости на дальних пасах."
+  ],
+  [
+    "WRs gain +{0} Route Running on short pass plays.",
+    "Ресиверы получают +{0} к маршрутам на коротких пасах."
+  ],
+  [
+    "Offense gains +{0} to all offensive attributes in the 4th quarter.",
+    "Нападение получает +{0} ко всем профильным характеристикам в четвёртой четверти."
+  ],
+  [
+    "+{0}% chance to reveal blitz after lining up, and +{1} QB IQ on all blitz plays.",
+    "Вероятность раскрытия блица после расстановки +{0}%. Интеллект квотербека против блица +{1}."
+  ],
+  [
+    "Gain an extra {0} scouts per week when recruiting.",
+    "Дополнительные просмотры при наборе за неделю · {0}."
+  ],
+  [
+    "{0} Recruiter",
+    "Набор игроков · {0}"
+  ],
+  [
+    "Recruiting pitches to {0} yield {1} extra points.",
+    "Обращения к кандидатам {0} дают дополнительно {1} очков."
+  ],
+  [
+    "Recruiting pitches to players with {0} archetype yield {1} extra points.",
+    "Обращения к кандидатам архетипа {0} дают дополнительно {1} очков."
+  ],
+  [
+    "Has an extra {0} training in preseason.",
+    "Дополнительные занятия предсезонки · {0}."
+  ],
+  [
+    "All {0} players have {1}% less chance to sustain an injury.",
+    "Игроки категории {0} получают травмы на {1}% реже."
+  ],
+  [
+    "{0} Miracle Worker",
+    "Чудо-врач · {0}"
+  ],
+  [
+    "All {0} injuries are shortened by {1} weeks (min 1 week).",
+    "Травмы категории {0} короче на {1} недель, минимум 1 неделя."
+  ],
+  [
+    "{0} Developer",
+    "Развитие игроков · {0}"
+  ],
+  [
+    "+{0}% increase to {1} development in the offseason.",
+    "Межсезонное развитие категории {1} выше на {0}%."
+  ],
+  [
+    "{0} lbs",
+    "{0} фунт."
+  ],
+  [
+    "Play in {0} games",
+    "Сыграть матчей · {0}"
+  ],
+  [
+    "Play in {0}% of snaps",
+    "Сыграть в {0}% снэпов"
+  ],
+  [
+    "Win {0}",
+    "Выиграть {0}"
+  ],
+  [
+    "Throw {0} pass yards",
+    "Набрать пасом {0} ярдов"
+  ],
+  [
+    "Attempt {0} passes",
+    "Выполнить попыток паса · {0}"
+  ],
+  [
+    "Complete {0} passes",
+    "Выполнить точных пасов · {0}"
+  ],
+  [
+    "Throw {0} touchdowns",
+    "Бросить пасовых тачдаунов · {0}"
+  ],
+  [
+    "Get {0} total pass + rush attempts",
+    "Всего попыток паса и выноса · {0}"
+  ],
+  [
+    "Rush for {0} yards",
+    "Набрать выносом {0} ярдов"
+  ],
+  [
+    "Get {0} carries",
+    "Совершить выносов · {0}"
+  ],
+  [
+    "Rush for {0} touchdowns",
+    "Занести тачдаунов выносом · {0}"
+  ],
+  [
+    "Have {0} receiving yards",
+    "Набрать приёмом {0} ярдов"
+  ],
+  [
+    "Catch {0} touchdowns",
+    "Поймать тачдаунов · {0}"
+  ],
+  [
+    "Get {0} targets",
+    "Получить адресованных пасов · {0}"
+  ],
+  [
+    "Catch {0} passes",
+    "Принять пасов · {0}"
+  ],
+  [
+    "Get {0} interceptions",
+    "Сделать перехватов · {0}"
+  ],
+  [
+    "Force {0} fumbles",
+    "Вынудить фамблов · {0}"
+  ],
+  [
+    "Get {0} tackles",
+    "Выполнить захватов · {0}"
+  ],
+  [
+    "Get {0} sacks",
+    "Выполнить сэков · {0}"
+  ],
+  [
+    "Get {0} defensive TDs",
+    "Занести тачдаунов защитой · {0}"
+  ],
+  [
+    "Awarded {0}",
+    "Награда · {0}"
+  ],
+  [
+    "Did not make an All-Conference team in {0}",
+    "Не попал в сборную конференции в {0}"
+  ],
+  [
+    "Did not make an All-American team in {0}",
+    "Не попал в сборную страны в {0}"
+  ],
+  [
+    "Did not win {0} in {1}",
+    "Не выиграл {0} в {1}"
+  ],
+  [
+    "Played in {0} games, promised {1}",
+    "Сыграно матчей · {0}, обещано · {1}"
+  ],
+  [
+    "Played in {0} games, but promised {1}",
+    "Сыграно только {0} матчей при обещании {1}"
+  ],
+  [
+    "Played {0}% of snaps, promised {1}%",
+    "Сыграно {0}% снэпов при обещании {1}%"
+  ],
+  [
+    "Had {0}",
+    "Результат · {0}"
+  ],
+  [
+    "Only had {0}, promised {1}",
+    "Результат лишь {0}, обещано · {1}"
+  ],
+  [
+    "Won {0} games",
+    "Выиграно матчей · {0}"
+  ],
+  [
+    "Only won {0} games",
+    "Выиграно лишь {0} матчей"
+  ],
+  [
+    "Made the playoffs as an {0} seed",
+    "Выход в плей-офф с посевом № {0}"
+  ],
+  [
+    "Own {0}",
+    "Свои {0}"
+  ],
+  [
+    "{0} vs {1} (OOC)",
+    "{0} против {1}, вне конференции"
+  ],
+  [
+    "{0} - {1} Rivalry",
+    "Принципиальное противостояние · {0} — {1}"
+  ],
+  [
+    "Tier {0} Bowl Winner",
+    "Победитель боула категории {0}"
+  ],
+  [
+    "Won {0}",
+    "Победа в {0}"
+  ],
+  [
+    "Tier {0} Bowl Participant",
+    "Участник боула категории {0}"
+  ],
+  [
+    "Lost {0}",
+    "Поражение в {0}"
+  ],
+  [
+    "Week {0}",
+    "Неделя {0}"
+  ],
+  [
+    "{0}-{1}, {2} yds",
+    "{0}–{1}, ярды · {2}"
+  ],
+  [
+    ", {0} TD",
+    ", ТД · {0}"
+  ],
+  [
+    ", {0} Int",
+    ", перехв. · {0}"
+  ],
+  [
+    "{0} car, {1} yds",
+    "Выносы · {0}, ярды · {1}"
+  ],
+  [
+    ", {0} fumb",
+    ", фамблы · {0}"
+  ],
+  [
+    "{0} rec, {1} yds",
+    "Приёмы · {0}, ярды · {1}"
+  ],
+  [
+    "{0} tkl",
+    "Захваты · {0}"
+  ],
+  [
+    "({0} tfl)",
+    "с потерей ярдов · {0}"
+  ],
+  [
+    ", {0} sack",
+    ", сэки · {0}"
+  ],
+  [
+    ", {0} press",
+    ", давление · {0}"
+  ],
+  [
+    ", {0} FF",
+    ", вынужд. фамблы · {0}"
+  ],
+  [
+    ", {0} int",
+    ", перехв. · {0}"
+  ],
+  [
+    ", {0} PD",
+    ", отбитые пасы · {0}"
+  ],
+  [
+    "{0} fumb",
+    "Фамблы · {0}"
+  ],
+  [
+    "{0} car, {1} yds, {2} y/c",
+    "Выносы · {0}, ярды · {1}, ярды/вынос · {2}"
+  ],
+  [
+    "{0} rec{1}, {2} yds, {3} y/r",
+    "Приёмы · {0}{1}, ярды · {2}, ярды/приём · {3}"
+  ],
+  [
+    "({0} tgt)",
+    "адресовано · {0}"
+  ],
+  [
+    "{0} ret TD,",
+    "ТД возвратом · {0},"
+  ],
+  [
+    "{0} KO y/r",
+    "Ярды/возврат НУ · {0}"
+  ],
+  [
+    ", {0} punt y/r",
+    ", ярды/возврат панта · {0}"
+  ],
+  [
+    "{0} pancakes, {1} sacks allowed",
+    "Блоки с опрокидыванием · {0}, пропущено сэков · {1}"
+  ],
+  [
+    "{0}/{1} FG",
+    "Филд-голы · {0}/{1}"
+  ],
+  [
+    "{0}/{1} XP",
+    "Реализации · {0}/{1}"
+  ],
+  [
+    "{0} punts, {1} yds/punt",
+    "Панты · {0}, ярды/пант · {1}"
+  ],
+  [
+    "{0} | Football Coach",
+    "{0} | Football Coach"
+  ],
+  [
+    "{0} Team Expectations",
+    "{0} · ожидания от команды"
+  ],
+  [
+    "Bookmark {0}",
+    "Закладка · {0}"
+  ],
+  [
+    "Contract (signed {0}):",
+    "Контракт подписан в {0} ·"
+  ],
+  [
+    "{0}x Conf COTY",
+    "Тренер года конференции · {0} раз"
+  ],
+  [
+    "{0}x League COTY",
+    "Тренер года лиги · {0} раз"
+  ],
+  [
+    "This skill only applies to {0}.",
+    "Навык действует только на {0}."
+  ],
+  [
+    "{0} Skill Badge{1}",
+    "Значки навыков · {0}{1}"
+  ],
+  [
+    "Next badge: Level {0}",
+    "Следующий значок на уровне {0}"
+  ],
+  [
+    "Bought out in {0}",
+    "Выкуплен в {0}"
+  ],
+  [
+    "Left in {0}",
+    "Ушёл в {0}"
+  ],
+  [
+    "Renegotiated in {0}",
+    "Пересмотрен в {0}"
+  ],
+  [
+    "Expired, not renewed in {0}",
+    "Истёк, не продлён в {0}"
+  ],
+  [
+    "Re-signed in {0}",
+    "Подписан повторно в {0}"
+  ],
+  [
+    "A contract with \"Coach Lock\" means the coach cannot leave to another school until {0}. They can be fired, however.",
+    "Запрет ухода не позволяет тренеру перейти в другой университет до {0}. Увольнение возможно."
+  ],
+  [
+    "A contract with \"Team Lock\" means the coach cannot be fired until {0}. They can leave to another school, however.",
+    "Гарантия места запрещает увольнение до {0}. Переход в другой университет возможен."
+  ],
+  [
+    "A contract with \"Insured\" means that if the coach leaves to another school before {0}, the team who signed this contract will receive an insurance payout equal to 50% of the remaining contract.",
+    "При страховании контракта уход тренера до {0} приносит его команде страховую выплату в размере 50% остатка контракта."
+  ],
+  [
+    "A contract with \"Double Lock\" means the coach cannot be fired OR leave to another school until {0}.",
+    "Двойная гарантия запрещает увольнение и переход до {0}."
+  ],
+  [
+    "Previous / next {0}",
+    "Предыдущий / следующий · {0}"
+  ],
+  [
+    "{0} round",
+    "Раунд {0}"
+  ],
+  [
+    "{0} from {1} {2} been selected in the draft!",
+    "{0} из {1} {2} выбраны на драфте!"
+  ],
+  [
+    "No players from {0} were selected in the draft this year.",
+    "В этом году ни один игрок {0} не выбран на драфте."
+  ],
+  [
+    "{0} is favored by {1} points in this game, according to oddsmakers.",
+    "По мнению букмекеров, {0} — фаворит с преимуществом {1} очков."
+  ],
+  [
+    "{0}, Week {1}",
+    "{0}, неделя {1}"
+  ],
+  [
+    "{0} {1} the {2} yd field goal.",
+    "{0} {1} филд-гол с {2} ярдов."
+  ],
+  [
+    "{0} punts {1} yds for a touchback.",
+    "{0} выполняет пант на {1} ярдов, тачбек."
+  ],
+  [
+    "{0} punts {1} yds, but {2} muffs the punt and {3} recovers!",
+    "{0} выполняет пант на {1} ярдов, но {2} допускает мафф, и {3} подбирает мяч!"
+  ],
+  [
+    "{0} punts {1} yds",
+    "{0} выполняет пант на {1} ярдов"
+  ],
+  [
+    "{0}, ball bounces to the {1}.",
+    "{0}, мяч отскакивает к отметке {1}."
+  ],
+  [
+    "{0}, {1} fair catches the punt at the {2}.",
+    "{0}, {1} выполняет свободную ловлю панта на отметке {2}."
+  ],
+  [
+    "{0} Attempt succeeds! {1} recovers.",
+    "{0} Успешная попытка! {1} подбирает мяч."
+  ],
+  [
+    "{0} Attempt fails, {1} recovers.",
+    "{0} Попытка не удалась. {1} подбирает мяч."
+  ],
+  [
+    "{0} yards",
+    "{0} ярдов"
+  ],
+  [
+    "{0} {1} yd rush{2}{3}.",
+    "{0} выносит мяч на {1} ярдов{2}{3}."
+  ],
+  [
+    "{0} {1} yd run.",
+    "{0} выносит мяч на {1} ярдов."
+  ],
+  [
+    "Clock runs out on the {0} quarter.",
+    "Время четверти {0} истекло."
+  ],
+  [
+    "and returned {0} yards",
+    "и возвращает мяч на {0} ярдов"
+  ],
+  [
+    "to the {0}",
+    "до отметки {0}"
+  ],
+  [
+    "{0} goes down in own end zone for a safety.",
+    "{0} остановлен в своей зачётной зоне, сейфти."
+  ],
+  [
+    "{0} yard line",
+    "отметка {0}"
+  ],
+  [
+    "{0} and {1}",
+    "{0} и {1}"
+  ],
+  [
+    "Starting {0} money:",
+    "Начальные средства {0} ·"
+  ],
+  [
+    "{0} Promise:",
+    "Обещание {0} ·"
+  ],
+  [
+    "{0} player promises",
+    "{0} · обещания игрокам"
+  ],
+  [
+    "Overall ({0}):",
+    "Рейтинг ({0}) ·"
+  ],
+  [
+    "Add {0} to {1} Ring of Honor?",
+    "Добавить {0} в Круг почёта {1}?"
+  ],
+  [
+    "This will add {0} to the Ring of Honor for {1}.",
+    "{0} будет включён в Круг почёта {1}."
+  ],
+  [
+    "{0} weeks",
+    "Недель · {0}"
+  ],
+  [
+    "All-time {0} {1}: {2}",
+    "Исторический рекорд {0} {1} · {2}"
+  ],
+  [
+    "All-time single-game {0}: {1}",
+    "Исторический рекорд за матч {0} · {1}"
+  ],
+  [
+    "{0} single-game {1}: {2}",
+    "Рекорд {0} за матч по показателю {1} · {2}"
+  ],
+  [
+    "This player was a junior college recruit, who was primarily recruited in {0} and joined the league in {1}. JUCO recruits start with two years of elibility remaining.",
+    "Игрок приглашён из двухлетнего колледжа в {0} и вошёл в лигу в {1}. У таких новичков остаётся два года права участия."
+  ],
+  [
+    "This player was a high school recruit, who was primarily recruited in {0}, and began their college career in {1}.",
+    "Игрок приглашён из школы в {0} и начал студенческую карьеру в {1}."
+  ],
+  [
+    "{0} games played",
+    "Матчей сыграно · {0}"
+  ],
+  [
+    "{0} ({1}% snaps)",
+    "{0} ({1}% снэпов)"
+  ],
+  [
+    "A {0} penalty is applied to overall performance due to height, which is an outlier given player position.",
+    "За нетипичный рост для этой позиции применяется штраф к эффективности · {0}."
+  ],
+  [
+    "A {0} penalty is applied to overall performance due to weight, which is an outlier given player position and height.",
+    "За нетипичный вес для этой позиции и роста применяется штраф к эффективности · {0}."
+  ],
+  [
+    "{0} recruiting class for {1}",
+    "{0} · набор новичков на {1}"
+  ],
+  [
+    "View all players who have committed to play for {0}, including transfers.",
+    "Все игроки, согласившиеся выступать за {0}, включая трансферы."
+  ],
+  [
+    "{0} Star{1}",
+    "Звёзды · {0}{1}"
+  ],
+  [
+    "and a penalty of -{0} has been applied. (Est market value: {1})",
+    "применён штраф −{0}. Оценочная рыночная стоимость · {1}"
+  ],
+  [
+    "This recruit felt disrespected by the NIL deal offered, {0}.",
+    "Кандидат счёл предложение NIL неуважительным. {0}."
+  ],
+  [
+    "This recruit felt disrespected by the lack of an NIL deal, {0}.",
+    "Кандидат счёл отсутствие предложения NIL неуважительным. {0}."
+  ],
+  [
+    "Your {0} has skill badges which give {1} bonus points for recruiting pitches to this recruit.",
+    "У вашего тренера {0} есть навыки, дающие {1} бонусных очков обращения к этому кандидату."
+  ],
+  [
+    "Committed ({0})",
+    "Дал согласие ({0})"
+  ],
+  [
+    "This recruit is being targeted and is {0} in your priority order. Edit this by clicking \"Change priority order\" in the My Targets tab.",
+    "Кандидат находится на месте {0} в вашем списке. Измените порядок на вкладке «Мои кандидаты»."
+  ],
+  [
+    "{0} {1} week {2}.",
+    "{0} {1}, неделя {2}."
+  ],
+  [
+    "As {0}, you do not control visits for this recruit.",
+    "На должности {0} вы не управляете визитами этого кандидата."
+  ],
+  [
+    "Scheduling week {0} visit",
+    "Визит на неделе {0}"
+  ],
+  [
+    "Overall ({0})",
+    "Общий рейтинг ({0})"
+  ],
+  [
+    "Potential is revealed at {0}% scouting.",
+    "Потенциал раскрывается при {0}% просмотра."
+  ],
+  [
+    "Durability is revealed at {0}% scouting.",
+    "Устойчивость к травмам раскрывается при {0}% просмотра."
+  ],
+  [
+    "ATH recruits must be assigned a position when being recruited; this player will be recruited as a {0}. Click to change this.",
+    "Новичку-атлету нужно назначить позицию. Этот игрок набирается на позицию {0}. Нажмите для изменения."
+  ],
+  [
+    "{0} bonuses",
+    "Бонусы · {0}"
+  ],
+  [
+    "These bonuses are applied when any {0} coach targets or pitches the recruit.",
+    "Бонусы действуют, когда тренер {0} добавляет кандидата в цели или обращается к нему."
+  ],
+  [
+    "{0} active bonus{1}:",
+    "Активные бонусы · {0}{1}"
+  ],
+  [
+    "Initial interest score is based on how well the school fits the recruit priorities and their importance. {0}",
+    "Начальный интерес зависит от соответствия университета приоритетам кандидата и их важности. {0}"
+  ],
+  [
+    "Relative interest shows how much the recruit likes the school, compared to all other schools pursuing them (including your school). {0}",
+    "Относительный интерес показывает отношение к университету в сравнении со всеми конкурирующими командами, включая вашу. {0}"
+  ],
+  [
+    "This ATH player will be recruited as a {0}. Change this in the 'Recruit Priorities' tab.",
+    "Этот атлет набирается на позицию {0}. Измените назначение в приоритетах кандидата."
+  ],
+  [
+    "{0} NIL Deal",
+    "Договор NIL · {0}"
+  ],
+  [
+    "{0} boost",
+    "Усиление · {0}"
+  ],
+  [
+    "This team is far behind, so a {0} boost multiplier was applied to target/pitch points.",
+    "Команда далеко отстала. К очкам целей и обращений применён множитель {0}."
+  ],
+  [
+    "Estimated points were {0}; true points ended up being {1} points {2}.",
+    "Оценка составляла {0}. Истинный результат оказался на {1} очков {2}."
+  ],
+  [
+    "Estimate; true points in {0} range",
+    "Оценка. Истинные очки в диапазоне {0}"
+  ],
+  [
+    "Committed (Week {0})",
+    "Дал согласие на неделе {0}"
+  ],
+  [
+    "Exceeded max scholarships ({0})",
+    "Превышен лимит стипендий ({0})"
+  ],
+  [
+    "Exceeded max commitments ({0})",
+    "Превышен лимит новичков ({0})"
+  ],
+  [
+    "Schedule visit for {0}",
+    "Назначить визит для {0}"
+  ],
+  [
+    "Remove {0} from targets?",
+    "Убрать {0} из кандидатов?"
+  ],
+  [
+    "Must be below {0}.",
+    "Должно быть ниже {0}."
+  ],
+  [
+    "Total NIL deal is below {0} (75% of market value). A penalty may be applied if other teams are offering better NIL deals to this transfer.",
+    "Общий NIL ниже {0}, то есть 75% рынка. Если другие команды предложат трансферу больше, возможен штраф."
+  ],
+  [
+    "{0} NIL deal",
+    "Договор NIL · {0}"
+  ],
+  [
+    "{0} remaining",
+    "Осталось · {0}"
+  ],
+  [
+    "{0} remaining{1}",
+    "Осталось · {0}{1}"
+  ],
+  [
+    "You are far behind in the battle, so a {0} boost multiplier is applied to target/pitch points.",
+    "Вы далеко отстали в борьбе. К очкам целей и обращений применяется множитель {0}."
+  ],
+  [
+    "Revoke scholarship offer{0}?",
+    "Отозвать предложение стипендии{0}?"
+  ],
+  [
+    "Has {0} offer",
+    "Есть предложение от {0}"
+  ],
+  [
+    "This will lock you out of {0}'s recruitment, and cannot be undone.",
+    "Вы больше не сможете набирать {0}. Это действие необратимо."
+  ],
+  [
+    "and {0} in NIL will be freed",
+    "и освободится {0} бюджета NIL"
+  ],
+  [
+    "Only the first round of 12/16 team playoffs will be played on campus. {0}",
+    "Только первый раунд плей-офф 12/16 команд проходит на полях университетов. {0}"
+  ],
+  [
+    "All playoff rounds through the quarterfinals will be played on campus. {0}",
+    "Раунды до четвертьфиналов включительно проходят на полях университетов. {0}"
+  ],
+  [
+    "All playoff rounds through the semifinals will be played on campus. {0}",
+    "Раунды до полуфиналов включительно проходят на полях университетов. {0}"
+  ],
+  [
+    "All playoff games will be played on campus. {0}",
+    "Все матчи плей-офф проходят на полях университетов. {0}"
+  ],
+  [
+    "NIL is enabled with a cap tied to prestige, ranging from {0} to {1}.",
+    "NIL включён. Лимит зависит от престижа и составляет от {0} до {1}."
+  ],
+  [
+    "NIL with flat {0} cap",
+    "NIL с одинаковым лимитом {0}"
+  ],
+  [
+    "Every {0} years, conferences may swap members. This can be canceled later.",
+    "Конференции могут обмениваться командами раз в {0} лет. Перестройку можно отменить."
+  ],
+  [
+    "All players (including freshmen) can enter the transfer portal. {0}",
+    "Все игроки, включая первокурсников, могут выходить на трансферный портал. {0}"
+  ],
+  [
+    "Sophomores and RS Freshmen can enter the transfer portal. {0}",
+    "Второкурсники и первокурсники после редшёрта могут выходить на трансферный портал. {0}"
+  ],
+  [
+    "Juniors and RS Sophomores can enter the transfer portal. {0}",
+    "Третьекурсники и второкурсники после редшёрта могут выходить на трансферный портал. {0}"
+  ],
+  [
+    "RS Juniors can enter the transfer portal. {0}",
+    "Третьекурсники после редшёрта могут выходить на трансферный портал. {0}"
+  ],
+  [
+    "The top two teams in size 14+ conferences {0}",
+    "Две лучшие команды конференций от 14 участников {0}"
+  ],
+  [
+    "The top two teams in size 16+ conferences {0}",
+    "Две лучшие команды конференций от 16 участников {0}"
+  ],
+  [
+    "The top two teams in each conference {0}",
+    "Две лучшие команды каждой конференции {0}"
+  ],
+  [
+    "{0} (quicker leveling)",
+    "{0}, быстрое развитие"
+  ],
+  [
+    "Each attribute can be leveled using money, where {0} is the max. {1}",
+    "Характеристики повышаются за деньги до максимума {0}. {1}"
+  ],
+  [
+    "{0} (recommended)",
+    "{0}, рекомендуется"
+  ],
+  [
+    "{0} (slower leveling)",
+    "{0}, медленное развитие"
+  ],
+  [
+    "{0} (much slower leveling)",
+    "{0}, очень медленное развитие"
+  ],
+  [
+    "This play category ({0}) is {1} effective due to repeated use. {2}",
+    "Эффективность категории {0} стала {1} из-за повторного использования. {2}"
+  ],
+  [
+    "This playcall ({0}) is {1} effective due to repeated use. {2}",
+    "Эффективность розыгрыша {0} стала {1} из-за повторного использования. {2}"
+  ],
+  [
+    "SHOWING {0}",
+    "ПОКАЗАНО · {0}"
+  ],
+  [
+    "Defend {0}",
+    "Защита против {0}"
+  ],
+  [
+    "The offense called an audible to change the play after seeing the defense. Previous formation: {0}",
+    "После оценки защиты нападение сменило комбинацию на линии. Прежняя формация · {0}"
+  ],
+  [
+    "Audible ({0} remaining)",
+    "Смена на линии, осталось · {0}"
+  ],
+  [
+    "Call an audible to change the playcall. You have {0} audibles remaining in the {1}.",
+    "Измените комбинацию на линии. Доступных изменений в {1} · {0}."
+  ],
+  [
+    "Let clock run out on {0} quarter",
+    "Дать времени четверти {0} истечь"
+  ],
+  [
+    "Last {0} play",
+    "Последний розыгрыш · {0}"
+  ],
+  [
+    "End of Q1. Score at the start of Q2: {0}",
+    "Первая четверть завершена. Счёт к началу второй · {0}"
+  ],
+  [
+    "Halftime. Score at the half: {0}",
+    "Перерыв. Счёт после первой половины · {0}"
+  ],
+  [
+    "End of Q3. Score at the start of Q4: {0}",
+    "Третья четверть завершена. Счёт к началу четвёртой · {0}"
+  ],
+  [
+    "Tie game at the end of {0}OT. Another overtime period begins!",
+    "После овертайма № {0} счёт равный. Начинается следующий период!"
+  ],
+  [
+    "{0} {1}. Final score: {2}",
+    "{0} {1}. Итоговый счёт · {2}"
+  ],
+  [
+    "The game has ended. Final score: {0}",
+    "Матч завершён. Итоговый счёт · {0}"
+  ],
+  [
+    "Game has ended. Final score: {0}",
+    "Матч завершён. Итоговый счёт · {0}"
+  ],
+  [
+    "{0}, {1} at the {2}",
+    "{0}, {1} на отметке {2}"
+  ],
+  [
+    "{0} ball, {1} at the {2}",
+    "Мяч у {0}, {1} на отметке {2}"
+  ],
+  [
+    "Audible to play ({0} formation)",
+    "Сменить комбинацию, формация {0}"
+  ],
+  [
+    "Audibling to this play will cost {0} seconds. Changing formations takes more time than plays in the same formation.",
+    "Смена этой комбинации займёт {0} секунд. Смена формации требует больше времени, чем выбор в той же формации."
+  ],
+  [
+    "Audible to play ({0} personnel)",
+    "Сменить комбинацию, состав {0}"
+  ],
+  [
+    "Kick {0} yd Field Goal",
+    "Пробить филд-гол с {0} ярдов"
+  ],
+  [
+    "Expected chance: {0}",
+    "Ожидаемый шанс · {0}"
+  ],
+  [
+    "Offense {0}",
+    "Нападение · {0}"
+  ],
+  [
+    "{0} player career record{1}s",
+    "Рекорды карьеры игрока · {0}{1}"
+  ],
+  [
+    "These are records for a player over their whole career{0}. Career records are not set until a player leaves college.",
+    "Рекорды за всю студенческую карьеру игрока{0}. Они фиксируются после ухода из университета."
+  ],
+  [
+    "{0} player single-season record{1}s",
+    "Рекорды игрока за сезон · {0}{1}"
+  ],
+  [
+    "{0} player game record{1}s",
+    "Рекорды игрока за матч · {0}{1}"
+  ],
+  [
+    "{0} team single-season record{1}s",
+    "Рекорды команды за сезон · {0}{1}"
+  ],
+  [
+    "{0} team game record{1}s",
+    "Рекорды команды за матч · {0}{1}"
+  ],
+  [
+    "This is {0}'s {1} {2} championship.",
+    "Для {0} это титул № {1} в {2}."
+  ],
+  [
+    "This is HC {0}'s {1} {2} championship.",
+    "Для главного тренера {0} это титул № {1} в {2}."
+  ],
+  [
+    "Congratulations on winning the {0} National Championship!",
+    "Поздравляем с чемпионством страны в {0}!"
+  ],
+  [
+    "Congratulations on winning the {0} {1} Championship!",
+    "Поздравляем с чемпионством {1} в {0}!"
+  ],
+  [
+    "{0} Conference",
+    "Конференция {0}"
+  ],
+  [
+    "This team {0} the {1} {2}.",
+    "Эта команда {0} {1} {2}."
+  ],
+  [
+    "{0} National Champions",
+    "Чемпионы страны {0}"
+  ],
+  [
+    "{0} {1} Champions",
+    "Чемпионы {1} {0}"
+  ],
+  [
+    "{0} Championship",
+    "Чемпионат {0}"
+  ],
+  [
+    "{0}° F, {1} mph wind",
+    "{0}° F, ветер {1} миль/ч"
+  ],
+  [
+    "{0}% chance of {1}",
+    "Вероятность осадков {1} · {0}%"
+  ],
+  [
+    "{0} mph",
+    "{0} миль/ч"
+  ],
+  [
+    "{0} chance",
+    "вероятность {0}"
+  ],
+  [
+    "Heavy {0} chance",
+    "Вероятность сильных осадков {0}"
+  ],
+  [
+    "Light {0}",
+    "Небольшие осадки · {0}"
+  ],
+  [
+    "Moderate {0}",
+    "Умеренные осадки · {0}"
+  ],
+  [
+    "Heavy {0}",
+    "Сильные осадки · {0}"
+  ],
+  [
+    "Use {0} layout",
+    "Размещение · {0}"
+  ],
+  [
+    "Age: {0}",
+    "Возраст · {0}"
+  ],
+  [
+    "{0} Coach of the Year",
+    "Тренер года · {0}"
+  ],
+  [
+    "Congratulations! {0} coach {1} has won the {2}.",
+    "Поздравляем! Тренер {1} из {0} получает награду {2}."
+  ],
+  [
+    "Congratulations! {0} coach {1} has won the Conference Coach of the Year.",
+    "Поздравляем! Тренер {1} из {0} становится тренером года конференции."
+  ],
+  [
+    "No {0} coaches were recognized with awards.",
+    "Тренеры {0} не получили наград."
+  ],
+  [
+    "No {0} players won national awards.",
+    "Игроки {0} не получили наград страны."
+  ],
+  [
+    "No {0} players were All-Americans.",
+    "Игроки {0} не попали в сборную страны."
+  ],
+  [
+    "No {0} players were All-Conference.",
+    "Игроки {0} не попали в сборную конференции."
+  ],
+  [
+    "View all {0} award winners",
+    "Все обладатели наград {0}"
+  ],
+  [
+    "{0} from {1}",
+    "{0} из {1}"
+  ],
+  [
+    "{0}, from {1}, {2}!",
+    "{0} из {1}, {2}!"
+  ],
+  [
+    "{0}! Congratulations to the {1} {2}!",
+    "{0}! Поздравляем {1} {2}!"
+  ],
+  [
+    "Reveal {0} winner",
+    "Раскрыть победителя · {0}"
+  ],
+  [
+    "Welcome to the {0} {1} Ceremony! Who will win this prestigious award and be named the {2}? The votes are in and the top five finalists have been selected. Let's meet the finalists!",
+    "Добро пожаловать на церемонию {0} {1}! Кто получит престижную награду и станет {2}? Голоса подсчитаны, пятеро финалистов выбраны. Познакомимся с ними!"
+  ],
+  [
+    "Each finalist is deserving in their own right, but only one will leave here with the trophy. The winner of the {0} {1} award is...",
+    "Каждый финалист достоин награды, но трофей получит лишь один. Победитель {0} {1}..."
+  ],
+  [
+    "No {0} players received votes for this award.",
+    "Игроки {0} не получили голосов за эту награду."
+  ],
+  [
+    "Congratulations! {0} {1} has won the {2}.",
+    "Поздравляем! {0} {1} получает награду {2}."
+  ],
+  [
+    "{0} {1} finished {2} in the voting for the {3}.",
+    "{0} {1} занимает место № {2} в голосовании за {3}."
+  ],
+  [
+    "{0} Team All-{1}",
+    "Сборная {1}, состав {0}"
+  ],
+  [
+    "Congratulations! You've been invited to the {0} Conference Championship.",
+    "Поздравляем! Вас пригласили в финал конференции {0}."
+  ],
+  [
+    "{0} was not invited to the conference championship.",
+    "{0} не приглашён в финал конференции."
+  ],
+  [
+    "Congratulations! You made the playoffs as the #{0} seed.",
+    "Поздравляем! Вы вышли в плей-офф с посевом № {0}."
+  ],
+  [
+    "Congratulations! You've been invited to the {0}.",
+    "Поздравляем! Вас пригласили в {0}."
+  ],
+  [
+    "{0} was not invited to a bowl game.",
+    "{0} не получил приглашение в боул."
+  ],
+  [
+    "And finally, with the #1 overall seed, {0}...",
+    "И наконец, первый посев получает {0}..."
+  ],
+  [
+    "Next, at the #{0} seed and receiving a bye, {1}...",
+    "Далее, посев № {0} с пропуском раунда получает {1}..."
+  ],
+  [
+    "Making the playoffs at the #{0} seed, {1}...",
+    "В плей-офф с посевом № {0} выходит {1}..."
+  ],
+  [
+    "Just missing the playoffs, with a #{0} ranking, {1}...",
+    "Совсем рядом с плей-офф, на месте № {0}, остаётся {1}..."
+  ],
+  [
+    "On the outside looking in, with a #{0} ranking, {1}...",
+    "За пределами плей-офф, на месте № {0}, остаётся {1}..."
+  ],
+  [
+    "At the #{0} spot, {1}...",
+    "На месте № {0} — {1}..."
+  ],
+  [
+    "the {0} Conference champion with a {1} record",
+    "чемпион конференции {0} с результатом {1}"
+  ],
+  [
+    "the team from {0} with a {1} record",
+    "команда из {0} с результатом {1}"
+  ],
+  [
+    "{0} was ranked #{1} by the committee and did not make the playoffs.",
+    "Комитет поставил {0} на место № {1}. Команда не вышла в плей-офф."
+  ],
+  [
+    "Reveal #{0} team",
+    "Раскрыть команду № {0}"
+  ],
+  [
+    "Welcome to the {0} playoff selection show! The committee is ready to reveal their final rankings, the playoff bracket, and the bowl game matchups. Let's get started!",
+    "Добро пожаловать на церемонию отбора в плей-офф {0}! Комитет готов объявить рейтинг, сетку и пары боулов. Начинаем!"
+  ],
+  [
+    "{0} wins!",
+    "{0} побеждает!"
+  ],
+  [
+    "{0} lost.",
+    "{0} проигрывает."
+  ],
+  [
+    "{0} game stat record updates",
+    "{0} · обновления рекордов за матч"
+  ],
+  [
+    "Bye ({0})",
+    "Без матча ({0})"
+  ],
+  [
+    "Yes, advance to {0}",
+    "Да, перейти к {0}"
+  ],
+  [
+    "To use a custom face image for this player, place a \"{0}_{1}_{2}.png\" image in your Specific Faces \"/players\" folder. Learn more about custom face images in the 'Game Settings' page.",
+    "Чтобы задать игроку свой портрет, поместите файл «{0}_{1}_{2}.png» в папку Specific Faces «/players». Подробнее о портретах — на странице «Настройки игры»."
+  ],
+  [
+    "{0} Ring of Honor",
+    "Круг почёта {0}"
+  ],
+  [
+    "{0}x all-time record holder",
+    "Исторических рекордов · {0}"
+  ],
+  [
+    "{0}x school record holder",
+    "Рекордов университета · {0}"
+  ],
+  [
+    "Undrafted ({0})",
+    "Не выбран на драфте ({0})"
+  ],
+  [
+    "Drafted Rd {0}, Pk {1} ({2})",
+    "Драфт · раунд {0}, выбор {1} ({2})"
+  ],
+  [
+    "{0} vs {1} Matchup History",
+    "История встреч {0} и {1}"
+  ],
+  [
+    "{0} History",
+    "История {0}"
+  ],
+  [
+    "{0} School Attributes",
+    "Параметры университета {0}"
+  ],
+  [
+    "This is an overview of all team stats in {0}, for both offense and defense.",
+    "Обзор всех показателей нападения и защиты в {0}."
+  ],
+  [
+    "Viewing {0}'s {1} {2}",
+    "Просмотр · {0}, {1} {2}"
+  ],
+  [
+    "{0} divisions",
+    "Дивизионы · {0}"
+  ],
+  [
+    "{0} members",
+    "Участники · {0}"
+  ],
+  [
+    "{0} League",
+    "Лига {0}"
+  ],
+  [
+    "{0}:{1} Championship",
+    "Чемпионат {0} · {1}"
+  ],
+  [
+    "The strong {0} mph wind makes it much harder to accurately throw the ball and kick field goals.",
+    "Сильный ветер {0} миль/ч заметно мешает точным пасам и филд-голам."
+  ],
+  [
+    "The {0} mph wind makes it harder to accurately throw the ball and kick field goals.",
+    "Ветер {0} миль/ч мешает точным пасам и филд-голам."
+  ],
+  [
+    "The {0} makes it {1} harder to grip the ball, kick and throw accurately, and make evasive moves on the field.",
+    "Погода {0} делает {1} труднее удержание мяча, точные удары и пасы, уклонение на поле."
+  ],
+  [
+    "(Score ≥{0})",
+    "Оценка ≥ {0}"
+  ],
+  [
+    "{0} has elected to start OT on offense, and {1} will start on defense.",
+    "{0} выбирает нападение в начале овертайма. {1} начинает с защиты."
+  ],
+  [
+    "{0} has elected to start OT on defense, and {1} will start on offense.",
+    "{0} выбирает защиту в начале овертайма. {1} начинает с нападения."
+  ],
+  [
+    "{0} has elected to defer to the second half, and will kickoff to {1}.",
+    "{0} откладывает выбор до второй половины и пробивает начальный удар команде {1}."
+  ],
+  [
+    "{0} has elected to receive the ball. {1} will kickoff.",
+    "{0} выбирает приём. Начальный удар выполняет {1}."
+  ],
+  [
+    "{0} stamina and snap counts",
+    "{0} · выносливость и снэпы"
+  ],
+  [
+    "Passer: {0} {1}",
+    "Пасующий · {0} {1}"
+  ],
+  [
+    "Blocker: {0} {1}",
+    "Блокирующий · {0} {1}"
+  ],
+  [
+    "Receiver: {0} {1} {2}",
+    "Принимающий · {0} {1} {2}"
+  ],
+  [
+    "Runner: {0} {1}",
+    "Бегущий · {0} {1}"
+  ],
+  [
+    "Man Def: {0} {1}",
+    "Персональное прикрытие · {0} {1}"
+  ],
+  [
+    "Zone Def: {0} {1}",
+    "Зонное прикрытие · {0} {1}"
+  ],
+  [
+    "Engage: {0} {1}",
+    "Контакт на линии · {0} {1}"
+  ],
+  [
+    "Done simulating {0} games",
+    "Симулировано матчей · {0}"
+  ],
+  [
+    "{0} rating",
+    "Рейтинг · {0}"
+  ],
+  [
+    "{0} offensive formations",
+    "Формации нападения · {0}"
+  ],
+  [
+    "{0} offensive tendency",
+    "Предпочтения нападения · {0}"
+  ],
+  [
+    "{0} defensive formations",
+    "Формации защиты · {0}"
+  ],
+  [
+    "{0} defensive tendency",
+    "Предпочтения защиты · {0}"
+  ],
+  [
+    "{0} Team Offense",
+    "{0} · нападение команды"
+  ],
+  [
+    "{0} Team Defense",
+    "{0} · защита команды"
+  ],
+  [
+    "{0} Champion",
+    "Чемпион · {0}"
+  ],
+  [
+    "{0} Pro Football Draft",
+    "Профессиональный драфт {0}"
+  ],
+  [
+    "Retired ({0})",
+    "Завершил карьеру ({0})"
+  ],
+  [
+    "These are all coaches who served as a coordinator under {0}.",
+    "Все тренеры, работавшие координаторами под руководством {0}."
+  ],
+  [
+    "These are all head coaches who {0} worked for as a coordinator.",
+    "Все главные тренеры, под руководством которых {0} работал координатором."
+  ],
+  [
+    "Bookmark Coach {0}",
+    "Закладка тренера {0}"
+  ],
+  [
+    "To use a custom face image for this coach, place a \"{0}_{1}.png\" image in your Specific Faces \"/coaches\" folder. Learn more about custom face images in the 'Game Settings' page.",
+    "Чтобы задать тренеру свой портрет, поместите файл «{0}_{1}.png» в папку Specific Faces «/coaches». Подробнее о портретах — на странице «Настройки игры»."
+  ],
+  [
+    "Coach {0}",
+    "Тренер {0}"
+  ],
+  [
+    "Successfully validated {0} recruiting class. {1} total recruits found.",
+    "Набор новичков {0} успешно проверен. Найдено кандидатов · {1}."
+  ],
+  [
+    "No {0} face pack workshop items found.",
+    "В Мастерской не найдены наборы портретов {0}."
+  ],
+  [
+    "Select {0} face packs from Steam Workshop",
+    "Выбрать наборы портретов {0} из Мастерской Steam"
+  ],
+  [
+    "{0} faces folder:",
+    "Папка портретов {0} ·"
+  ],
+  [
+    "Click to regenerate {0} choices. This will remove current selection.",
+    "Обновить варианты {0}. Текущий выбор будет сброшен."
+  ],
+  [
+    "{0} plays found ({1} total)",
+    "Найдено розыгрышей · {0} из {1}"
+  ],
+  [
+    "Defense Playbook ({0})",
+    "Плейбук защиты ({0})"
+  ],
+  [
+    "These are all defensive plays available in the {0} playbook.",
+    "Все розыгрыши защиты плейбука {0}."
+  ],
+  [
+    "Offense Playbook ({0})",
+    "Плейбук нападения ({0})"
+  ],
+  [
+    "These are all offensive plays available in the {0} playbook.",
+    "Все розыгрыши нападения плейбука {0}."
+  ],
+  [
+    "Focus: {0}",
+    "Акцент · {0}"
+  ],
+  [
+    "Starting yardline: {0}",
+    "Начальная отметка · {0}"
+  ],
+  [
+    "These are the results for running the configured offense and defense play combination {0} times.",
+    "Результаты {0} повторений заданного сочетания розыгрышей нападения и защиты."
+  ],
+  [
+    "{0} Practice Results",
+    "{0} · результаты тренировок"
+  ],
+  [
+    "{0} Practice",
+    "{0} · тренировки"
+  ],
+  [
+    "All {0} recruits",
+    "Все кандидаты {0}"
+  ],
+  [
+    "{0} {1} recruiting class{2}",
+    "{0} {1} · набор новичков{2}"
+  ],
+  [
+    "Delete formation override for {0}?",
+    "Удалить особый состав формации {0}?"
+  ],
+  [
+    "Add player to the {0} position",
+    "Добавить игрока на позицию {0}"
+  ],
+  [
+    "Player overall ratings are adjusted to be for the {0} position.",
+    "Общие рейтинги рассчитаны для позиции {0}."
+  ],
+  [
+    "Configure {0} position",
+    "Настроить позицию {0}"
+  ],
+  [
+    "Edit {0} personnel",
+    "Изменить состав {0}"
+  ],
+  [
+    "Set each position in the {0} formation. This will override the depth chart and position preferences for this formation.",
+    "Назначьте игроков формации {0}. Этот состав заменит общий порядок и предпочтения игроков для этой формации."
+  ],
+  [
+    "Depth chart player menu for {0}",
+    "Меню игрока {0} в составе по позициям"
+  ],
+  [
+    "Every {0} years",
+    "Раз в {0} лет"
+  ],
+  [
+    "Both teams are currently in the same conference ({0}). No OOC rivalry game will be scheduled, but it can still be saved/edited in case of realignment.",
+    "Команды сейчас в одной конференции ({0}), поэтому внешний принципиальный матч не планируется. Настройки можно сохранить на случай перестройки."
+  ],
+  [
+    "These teams are currently in the same conference ({0}). No OOC game will be scheduled, but you can still keep this rivalry around in case of realignment.",
+    "Команды сейчас в одной конференции ({0}). Внешний матч не назначается, но противостояние можно сохранить на случай перестройки."
+  ],
+  [
+    "Are you sure you want to delete the OOC rivalry between {0} and {1}? This can be recreated later if needed.",
+    "Удалить внешнее противостояние {0} и {1}? При необходимости его можно создать заново."
+  ],
+  [
+    "{0} threads",
+    "Потоков · {0}"
+  ],
+  [
+    "FCCD - {0} ({1} Export)",
+    "FCCD — {0}, экспорт {1}"
+  ],
+  [
+    "{0} recruiting class",
+    "Набор новичков {0}"
+  ],
+  [
+    "Use the button above to see where local game files are saved. If you wish to transfer files to a different computer, copy save_{0}_config.json and save_{1}.db files to the same location on the other computer.",
+    "Кнопка выше показывает папку с локальными файлами игры. Для переноса на другой компьютер скопируйте файлы save_{0}_config.json и save_{1}.db в такую же папку на другом компьютере."
+  ],
+  [
+    "This will remove bookmarks for the {0} coaches visible with the current filter. This cannot be undone.",
+    "Будут удалены закладки тренеров, видимых при текущем фильтре · {0}. Это действие необратимо."
+  ],
+  [
+    "This will remove bookmarks for the {0} players visible with the current filter. This cannot be undone.",
+    "Будут удалены закладки игроков, видимых при текущем фильтре · {0}. Это действие необратимо."
+  ],
+  [
+    "Change number for {0}",
+    "Сменить номер {0}"
+  ],
+  [
+    "These are all games scheduled for your team in {0}.",
+    "Все матчи вашей команды, запланированные на {0}."
+  ],
+  [
+    "Games with a classic score above {0} are considered \"Certified Classics\". Classic score is a combination of game excitement and importance, and there are tiers of classics, from Bronze to All-timer.",
+    "Матчи с оценкой классики выше {0} считаются признанной классикой. Оценка объединяет зрелищность и значимость. Категории — от бронзовой до исторической."
+  ],
+  [
+    "/{0} folder",
+    "папка /{0}"
+  ],
+  [
+    "Size: {0} MB",
+    "Размер · {0} МБ"
+  ],
+  [
+    "Title of the workshop item. Be descriptive! This can be changed later. Character limit: {0} / {1}",
+    "Понятное название набора Мастерской. Можно изменить позднее. Символов · {0} / {1}"
+  ],
+  [
+    "Description of the workshop item. You may want to copy & paste from a different editor. This can be changed later. Character limit: {0} / {1}",
+    "Описание набора Мастерской. Можно вставить из другого редактора и изменить позднее. Символов · {0} / {1}"
+  ],
+  [
+    "Change notes for the update you are making. Character limit: {0} / {1}",
+    "Описание изменений текущего обновления. Символов · {0} / {1}"
+  ],
+  [
+    "Update {0}",
+    "Обновление {0}"
+  ],
+  [
+    "Playbook: {0}",
+    "Плейбук · {0}"
+  ],
+  [
+    "Min: {0}",
+    "Минимум · {0}"
+  ],
+  [
+    "{0} personnel",
+    "Состав · {0}"
+  ],
+  [
+    "Against {0} personnel",
+    "Против состава {0}"
+  ],
+  [
+    "{0} coaching staff",
+    "Тренерский штаб {0}"
+  ],
+  [
+    "{0} {1} Game Plan",
+    "{0} {1} · план на игру"
+  ],
+  [
+    "This is comparing {0}'s run blocking and rushing skill against {1}'s run stop.",
+    "Сравнение блока на выносе и выносного мастерства {0} с защитой от выноса {1}."
+  ],
+  [
+    "This is comparing {0}'s QB play and receiver skill against {1}'s pass coverage.",
+    "Сравнение игры квотербека и мастерства ресиверов {0} с прикрытием паса {1}."
+  ],
+  [
+    "This is comparing {0}'s pass blocking against {1}'s pass rush.",
+    "Сравнение блока на пасе {0} с давлением на пасующего {1}."
+  ],
+  [
+    "This matchup favors {0}'s offensive talent.",
+    "Преимущество по силе игроков у нападения {0}."
+  ],
+  [
+    "This matchup favors {0}'s defensive talent.",
+    "Преимущество по силе игроков у защиты {0}."
+  ],
+  [
+    "No relevant booster bonus objectives for {0}.",
+    "Для {0} нет подходящих бонусных целей спонсоров."
+  ],
+  [
+    "These are the final rankings for the {0} season as voted on by media members.",
+    "Итоговый рейтинг сезона {0} по голосованию журналистов."
+  ],
+  [
+    "{0} recruiting actions available",
+    "Доступно действий набора · {0}"
+  ],
+  [
+    "{0} (auto-recruit enabled)",
+    "{0}, автонабор включён"
+  ],
+  [
+    "{0} (preserve actions enabled)",
+    "{0}, сохранение действий включено"
+  ],
+  [
+    "{0} ago",
+    "{0} назад"
+  ],
+  [
+    "{0} hours",
+    "Часов · {0}"
+  ],
+  [
+    "{0} minutes",
+    "Минут · {0}"
+  ],
+  [
+    "{0} seconds",
+    "Секунд · {0}"
+  ],
+  [
+    "Preliminary scheme for {0}",
+    "Предварительная схема {0}"
+  ],
+  [
+    "Uncommitted {0} targets",
+    "Кандидаты {0}, не давшие согласия"
+  ],
+  [
+    "This may change your targeted players, any priority order set, and recruiting actions for the week. {0}",
+    "Могут измениться ваши кандидаты, их приоритеты и действия набора недели. {0}"
+  ],
+  [
+    "This may change your targeted players and recruiting actions for the week. {0}",
+    "Могут измениться ваши кандидаты и действия набора недели. {0}"
+  ],
+  [
+    "This may change your priority order of your targets and recruiting actions for the week. {0}",
+    "Могут измениться приоритеты кандидатов и действия набора недели. {0}"
+  ],
+  [
+    "This may change your recruiting actions for the week. {0}",
+    "Могут измениться действия набора недели. {0}"
+  ],
+  [
+    "Targeted by {0} last week",
+    "На прошлой неделе был целью {0}"
+  ],
+  [
+    "{0} stars",
+    "Звёзды · {0}"
+  ],
+  [
+    "{0} selected",
+    "Выбрано · {0}"
+  ],
+  [
+    "{0} states selected",
+    "Выбрано штатов · {0}"
+  ],
+  [
+    "This will add recommended recruits to your recruiting targets, likely up to the limit ({0}). Recruits already targeted will remain in front. Recruits can be removed from targets afterwards. Are you sure?",
+    "Рекомендованные кандидаты будут добавлены в цели, вероятно до лимита {0}. Прежние кандидаты сохранят первые места. Позже кандидатов можно удалить. Продолжить?"
+  ],
+  [
+    "{0} added to targets",
+    "{0} добавлен в кандидаты"
+  ],
+  [
+    "The {0} position has {1} based on the roster, and {2}.",
+    "Позиция {0} · по составу {1}, а также {2}."
+  ],
+  [
+    "The {0} position has {1} based on the roster, {2}, and {3}.",
+    "Позиция {0} · по составу {1}, {2}, а также {3}."
+  ],
+  [
+    "Bonus: {0}",
+    "Бонус · {0}"
+  ],
+  [
+    "Attribute: {0}",
+    "Характеристика · {0}"
+  ],
+  [
+    "You can target {0} players each week. To find players to target, it's best to only target players who are interested in your program. Each player has a level of interest in your school, which can be compared against other schools. As a rule of thumb, if your school doesn't meet the interest of the top 5 schools pursuing them, it will be very hard to secure their commitment. You can find recommended players to target by using the \"Current place in battle\" filter to find players who have your team in their Top 5. You can also see what targets your staff recommends by clicking \"View recommended targets\" below, or in the targets header.",
+    "Каждую неделю доступно {0} целей набора. Выбирайте заинтересованных в вашей программе игроков. Если ваша команда не входит в пятёрку лучших по интересу кандидата, получить согласие будет трудно. Фильтр места в борьбе покажет игроков, у которых вы в топ-5. Рекомендации штаба доступны по кнопке ниже или в карточке кандидатов по позициям."
+  ],
+  [
+    "These are all of the team's targeted {0} recruits, in custom priority order.",
+    "Все кандидаты команды категории {0} в вашем порядке приоритета."
+  ],
+  [
+    "This will remove all {0} recruits currently being targeted. Each recruit can be re-added manually in \"All Recruits\".",
+    "Из целей будут удалены все кандидаты {0}. Каждого можно вернуть вручную из полного списка."
+  ],
+  [
+    "View all recruits who have oustanding scholarship offers from {0}.",
+    "Все кандидаты с действующим предложением стипендии от {0}."
+  ],
+  [
+    "{0} However, as a coordinator, you do not control offers or NIL deals.",
+    "{0} Координатор не управляет стипендиями и договорами NIL."
+  ],
+  [
+    "{0}. Scholarships{1} can be revoked at a cost of {2} coach integrity.",
+    "{0}. Стипендии{1} можно отозвать за {2} репутации тренера."
+  ],
+  [
+    "{0} Coaches",
+    "Тренеры {0}"
+  ],
+  [
+    "This is the {0} coaching staff, along with the offensive and defensive game plans.",
+    "Тренерский штаб {0} и планы нападения и защиты."
+  ],
+  [
+    "{0} Athletic Director",
+    "Спортивный директор {0}"
+  ],
+  [
+    "These are all player stats for {0}, by category and position.",
+    "Статистика всех игроков {0} по категориям и позициям."
+  ],
+  [
+    "{0} Schedule",
+    "Календарь {0}"
+  ],
+  [
+    "These are all games played in the {0} season.",
+    "Все матчи сезона {0}."
+  ],
+  [
+    "This school's archetype gives +{0} bonus levels to {1}. Bonus levels do not affect maintenance costs.",
+    "Архетип даёт +{0} бонусных уровней параметру {1}. Они не повышают расходы на содержание."
+  ],
+  [
+    "{0} Conference Prestige",
+    "Престиж конференции {0}"
+  ],
+  [
+    "Maintenance Cost: {0}",
+    "Расходы на содержание · {0}"
+  ],
+  [
+    "{0} Donor{1}",
+    "Спонсор · {0}{1}"
+  ],
+  [
+    "{0} Boosters",
+    "Спонсоры {0}"
+  ],
+  [
+    "Age: {0} ({1} year)",
+    "Возраст · {0}, год № {1}"
+  ],
+  [
+    "Gain {0} at end of year ({1})",
+    "Прирост {0} в конце года ({1})"
+  ],
+  [
+    "Broken promises ({0})",
+    "Нарушенные обещания ({0})"
+  ],
+  [
+    "Kept promises ({0})",
+    "Выполненные обещания ({0})"
+  ],
+  [
+    "New Head Coach ({0})",
+    "Новый главный тренер ({0})"
+  ],
+  [
+    "Changed HC jobs ({0})",
+    "Смена должности главного тренера ({0})"
+  ],
+  [
+    "Fired {0} ({1})",
+    "Уволен {0} ({1})"
+  ],
+  [
+    "Cut {0} players not recommended by HC ({1})",
+    "Отчислены игроки вне рекомендаций главного тренера · {0} ({1})"
+  ],
+  [
+    "Cut {0} players{1} ({2})",
+    "Отчислены игроки · {0}{1} ({2})"
+  ],
+  [
+    "Negotiated with boosters ({0})",
+    "Переговоры со спонсорами ({0})"
+  ],
+  [
+    "ATH position changes ({0})",
+    "Смена позиций атлетов ({0})"
+  ],
+  [
+    "{0} already exists in the map.",
+    "{0} уже присутствует в списке."
+  ],
+  [
+    "{0} team does not exist.",
+    "Команда {0} не существует."
+  ],
+  [
+    "{0} team does not exist (rival of {1}).",
+    "Команда {0} не существует (принципиальный соперник {1})."
+  ],
+  [
+    "Rival with abbr {0} not found.",
+    "Соперник с сокращением {0} не найден."
+  ],
+  [
+    "Imported ATH recruits must list all attributes, not just a rating. (ATH {0})",
+    "Для импортированных кандидатов ATH нужно указать все характеристики, а не только общий рейтинг. (ATH {0})"
+  ],
+  [
+    "Imported ATH recruits must list all attributes, not just a baselineOverall. (ATH {0})",
+    "Для импортированных кандидатов ATH нужно указать все характеристики, а не только baselineOverall. (ATH {0})"
+  ],
+  [
+    "Two conferences with {0} prestige; each conference must have a different prestige.",
+    "Две конференции имеют престиж {0}; у каждой конференции он должен отличаться."
+  ],
+  [
+    "20 team conferences must have 4 divisions, conference {0} has 20 teams but {1} divisions.",
+    "Конференция из 20 команд должна иметь 4 дивизиона. У конференции {0} 20 команд и {1} дивизионов."
+  ],
+  [
+    "18 team conferences must have 2 divisions, conference {0} has 18 teams but {1} divisions.",
+    "Конференция из 18 команд должна иметь 2 дивизиона. У конференции {0} 18 команд и {1} дивизионов."
+  ],
+  [
+    "16 team conferences must have 4 divisions, conference {0} has 16 teams but {1} divisions.",
+    "Конференция из 16 команд должна иметь 4 дивизиона. У конференции {0} 16 команд и {1} дивизионов."
+  ],
+  [
+    "14 team conferences must have 2 divisions, conference {0} has 14 teams but {1} divisions.",
+    "Конференция из 14 команд должна иметь 2 дивизиона. У конференции {0} 14 команд и {1} дивизионов."
+  ],
+  [
+    "12 team conferences must have 2 divisions, conference {0} has 12 teams but {1} divisions.",
+    "Конференция из 12 команд должна иметь 2 дивизиона. У конференции {0} 12 команд и {1} дивизионов."
+  ],
+  [
+    "10 team conferences must have 1 division, conference {0} has 10 teams but {1} divisions.",
+    "Конференция из 10 команд должна иметь 1 дивизион. У конференции {0} 10 команд и {1} дивизионов."
+  ],
+  [
+    "Team {0} found twice in division {1}",
+    "Команда {0} дважды указана в дивизионе {1}"
+  ],
+  [
+    "Team {0} rival {1} not found in division {2}",
+    "Соперник {1} команды {0} не найден в дивизионе {2}"
+  ],
+  [
+    "Bowl game error: \"{0}\" has a tie-in for \"{1}\", but this conference was not found.",
+    "Ошибка боул-матча: «{0}» связан с конференцией «{1}», которая не найдена."
+  ],
+  [
+    "Bowl game error: \"{0}\" has \"{1}\" as a first and second tie-in, which is not allowed.",
+    "Ошибка боул-матча: у «{0}» конференция «{1}» указана в обеих привязках, что не допускается."
+  ],
+  [
+    "{0} has unknown school archetype \"{1}\". Valid archetypes are: • {2}",
+    "У {0} неизвестный архетип университета «{1}». Допустимые архетипы: • {2}"
+  ],
+  [
+    "{0} has unknown school fanbase type \"{1}\". Valid fanbase types are: • {2}",
+    "У {0} неизвестный тип болельщиков «{1}». Допустимые типы: • {2}"
+  ],
+  [
+    "{0} {1} {2} has a team set to {3}, but this team does not exist in the league.",
+    "У {0} {1} {2} указана команда {3}, но её нет в лиге."
+  ],
+  [
+    "Incoming ATH recruit has no assigned position for team {0}, falling back to QB.",
+    "У входящего кандидата ATH команды {0} не выбрана позиция. Используется QB."
+  ],
+  [
+    "ATH Recruit {0} has no candidate positions. Filling in with best effort.",
+    "У кандидата ATH {0} нет доступных позиций. Они будут определены автоматически."
+  ],
+  [
+    "{0} yd pass",
+    "Пас на {0} ярдов"
+  ],
+  [
+    "{0} yd run",
+    "Вынос на {0} ярдов"
+  ],
+  [
+    "{0} yd touchdown run",
+    "Тачдаун выносом на {0} ярдов"
+  ],
+  [
+    "{0} yd touchdown pass",
+    "Тачдаун пасом на {0} ярдов"
+  ],
+  [
+    "End of {0} quarter",
+    "Конец {0}-й четверти"
+  ],
+  [
+    "End of {0} Quarter",
+    "Конец {0}-й четверти"
+  ],
+  [
+    "Player {0} not found.",
+    "Игрок {0} не найден."
+  ],
+  [
+    "No players exist with position {0}",
+    "Нет игроков на позиции {0}"
+  ],
+  [
+    "No plays found in playbook for category \"{0}\".",
+    "В сборнике нет комбинаций категории «{0}»."
+  ],
+  [
+    "No {0}s found.",
+    "Не найдено: {0}."
+  ],
+  [
+    "ID not found for depth {0}",
+    "Не найден идентификатор для глубины {0}"
+  ],
+  [
+    "No starting locations for formation {0}",
+    "Для построения {0} не заданы начальные позиции"
+  ],
+  [
+    "Coach {0} ({1}) does not have attributes. Cannot adapt.",
+    "У тренера {0} ({1}) нет характеристик. Адаптация невозможна."
+  ],
+  [
+    "Tried to schedule {0} multiple times for OOC games.",
+    "Команда {0} несколько раз указана в матчах вне конференции."
+  ],
+  [
+    "Expected games to swap for {0}, cancelling FCS swap",
+    "Не найдены матчи для обмена у {0}; замена матча FCS отменена"
+  ],
+  [
+    "Team {0} is not participating in game in setNewOpponent.",
+    "Команда {0} не участвует в матче при смене соперника."
+  ],
+  [
+    "Game for week {0} not found in swapToNewOpponent.",
+    "Матч недели {0} не найден при смене соперника."
+  ],
+  [
+    "Conference {0} must have divisions.",
+    "У конференции {0} должны быть дивизионы."
+  ],
+  [
+    "Conferences with one division must have {0} teams.",
+    "В конференциях с одним дивизионом должно быть {0} команд."
+  ],
+  [
+    "Conferences with two divisions must have {0}, {1}, or {2} teams in each division (found {3} & {4}).",
+    "В конференциях с двумя дивизионами в каждом должно быть {0}, {1} или {2} команд (обнаружено {3} и {4})."
+  ],
+  [
+    "Conferences with four divisions must have {0} or {1} teams in each division.",
+    "В конференциях с четырьмя дивизионами в каждом должно быть {0} или {1} команд."
+  ],
+  [
+    "{0} (home) has two games on week {1}",
+    "У {0} (хозяева) два матча на неделе {1}"
+  ],
+  [
+    "{0} (away) has two games on week {1}",
+    "У {0} (гости) два матча на неделе {1}"
+  ],
+  [
+    "{0} plays {1} twice.",
+    "Команда {0} дважды играет с {1}."
+  ],
+  [
+    "{0} has {1} games scheduled.",
+    "У команды {0} запланировано матчей: {1}."
+  ],
+  [
+    "The week {0} does not exist.",
+    "Неделя {0} не существует."
+  ],
+  [
+    "A week of type {0} does not exist.",
+    "Неделя типа {0} не существует."
+  ],
+  [
+    "{0} TOTAL: {1}s",
+    "{0} ИТОГО: {1} с"
+  ],
+  [
+    "getPlayerWithAttrOvr called with ATH player {0}, falling back to QB.",
+    "Для кандидата ATH {0} запрошен рейтинг позиции; используется QB."
+  ],
+  [
+    "Coaching staff has invalid team {0}",
+    "У тренерского штаба указана недопустимая команда {0}"
+  ],
+  [
+    "{0} Star",
+    "Звёзды · {0}"
+  ],
+  [
+    "Change images folder path. Current path: {0}",
+    "Изменить папку изображений. Текущая папка: {0}"
+  ],
+  [
+    "Change recruiting classes folder path. Current path: {0}",
+    "Изменить папку наборов новичков. Текущая папка: {0}"
+  ],
+  [
+    "Change {0} face pack folder path. Current path: {1}",
+    "Изменить папку набора портретов «{0}». Текущая папка: {1}"
+  ],
+  [
+    "Tiebreaker: {0}",
+    "Дополнительный критерий · {0}"
+  ],
+  [
+    "{0} Leaders",
+    "Лидеры · {0}"
+  ],
+  [
+    "View leaderboards for each stat category over each player's entire career. {0}",
+    "Лидеры по каждому показателю за всю карьеру игроков. {0}"
+  ],
+  [
+    "View leaderboards for each stat category for the {0} season. {1}",
+    "Лидеры по каждому показателю за сезон {0}. {1}"
+  ],
+  [
+    "{0} lands {1} star {2}",
+    "{0} получает {2} с рейтингом {1} ★"
+  ],
+  [
+    "{0} {1} chooses {2}",
+    "{0} {1} выбирает {2}"
+  ],
+  [
+    "{0} star {1} commits to {2}",
+    "{1} с рейтингом {0} ★ даёт согласие команде {2}"
+  ],
+  [
+    "Big recruiting win for {0}",
+    "Большой успех {0} в наборе игроков"
+  ],
+  [
+    "#1 {0} recruit commits to {1}",
+    "Лучший кандидат на позиции {0} выбирает {1}"
+  ],
+  [
+    "{0} lands top {1} recruit",
+    "{0} получает ведущего кандидата на позиции {1}"
+  ],
+  [
+    "Elite {0} chooses {1}",
+    "Элитный {0} выбирает {1}"
+  ],
+  [
+    "Elite {0} commits to {1}",
+    "Элитный {0} даёт согласие команде {1}"
+  ],
+  [
+    "Blue-chip {0} chooses {1}",
+    "Один из лучших кандидатов на позиции {0} выбирает {1}"
+  ],
+  [
+    "Blue-chip {0} commits to {1}",
+    "Один из лучших кандидатов на позиции {0} даёт согласие команде {1}"
+  ],
+  [
+    "JUCO {0} chooses {1}",
+    "{0} из двухлетнего колледжа выбирает {1}"
+  ],
+  [
+    "JUCO {0} commits to {1}",
+    "{0} из двухлетнего колледжа даёт согласие команде {1}"
+  ],
+  [
+    "{0} lands in-state {1}",
+    "{0} получает {1} из своего штата"
+  ],
+  [
+    "{0} lands local {1}",
+    "{0} получает местного кандидата на позиции {1}"
+  ],
+  [
+    "{0} {1} stays home, commits to {2}",
+    "{0} {1} остаётся в родном штате и выбирает {2}"
+  ],
+  [
+    "{0} star {1} stays home, commits to {2}",
+    "{1} с рейтингом {0} ★ остаётся в родном штате и выбирает {2}"
+  ],
+  [
+    "{0}, the {1} star {2} from {3}, has committed to the {4}.",
+    "{0}, {2} с рейтингом {1} ★ из {3}, даёт согласие команде {4}."
+  ],
+  [
+    "The {0} have secured a commitment from {1}, the {2} star {3} from {4}.",
+    "{0} получает согласие от {1}, {3} с рейтингом {2} ★ из {4}."
+  ],
+  [
+    "{0} has made a decision; the {1} will sign and enroll with the {2}.",
+    "{0} принимает решение. Игрок на позиции {1} подпишет соглашение и поступит в {2}."
+  ],
+  [
+    "The {0} have landed a commitment from {1}, the elite {2} from {3}.",
+    "{0} получает согласие от {1}, элитного кандидата на позиции {2} из {3}."
+  ],
+  [
+    "The highly touted {0} from {1}, {2}, has committed to the {3}.",
+    "Высоко оценённый {0} из {1}, {2}, даёт согласие команде {3}."
+  ],
+  [
+    "{0}, the {1} star {2} from {3}, has committed to {4}.",
+    "{0}, {2} с рейтингом {1} ★ из {3}, даёт согласие команде {4}."
+  ],
+  [
+    "{0} has secured a commitment from {1}, the {2} star {3} from {4}.",
+    "{0} получает согласие от {1}, {3} с рейтингом {2} ★ из {4}."
+  ],
+  [
+    "{0} has made a decision; the {1} will sign and enroll with {2}.",
+    "{0} принимает решение. Игрок на позиции {1} подпишет соглашение и поступит в {2}."
+  ],
+  [
+    "{0} has landed a commitment from {1}, the elite {2} from {3}.",
+    "{0} получает согласие от {1}, элитного кандидата на позиции {2} из {3}."
+  ],
+  [
+    "The highly touted {0} from {1}, {2}, has committed to {3}.",
+    "Высоко оценённый {0} из {1}, {2}, даёт согласие команде {3}."
+  ],
+  [
+    "the #{0} overall JUCO recruit in the nation",
+    "кандидат № {0} в стране среди игроков двухлетних колледжей"
+  ],
+  [
+    "the #{0} overall HS recruit in the nation",
+    "кандидат № {0} в стране среди школьников"
+  ],
+  [
+    "the #{0} {1} recruit in the nation",
+    "кандидат № {0} в стране на позиции {1}"
+  ],
+  [
+    "{0}, the #{1} overall recruit in the nation, chose the clear favorite in a battle that was never close.",
+    "{0}, кандидат № {1} в стране, выбирает явного фаворита. Борьба за игрока была односторонней."
+  ],
+  [
+    "{0}, {1}, ultimately picked up the {2} hat, spurning {3} and {4} after a dramatic recruiting saga.",
+    "{0}, {1}, в итоге надевает кепку {2}, отказав {3} и {4} после напряжённой борьбы за поступление."
+  ],
+  [
+    "{0}, {1}, ultimately picked up the {2} hat, choosing the home state school over {3} and {4}.",
+    "{0}, {1}, в итоге надевает кепку {2}, предпочтя университет родного штата командам {3} и {4}."
+  ],
+  [
+    "{0}, {1}, signed an LOI for {2}. {3} and {4} were the losers of a dramatic signing day decision.",
+    "{0}, {1}, подписывает письмо о намерениях выступать за {2}. Для {3} и {4} драматичный день подписания соглашений заканчивается неудачей."
+  ],
+  [
+    "{0}, {1}, committed to {2} over {3} and {4}, a decision that went down to the wire.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}. Интрига сохранялась до последнего."
+  ],
+  [
+    "{0}, {1}, committed to {2} over {3} and {4} in a dramatic signing day decision.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4} в драматичный день подписания соглашений."
+  ],
+  [
+    "{0}, {1}, committed to {2} over {3} and {4} after a long and drawn out recruiting battle.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4} после долгой и упорной борьбы за игрока."
+  ],
+  [
+    "{0}, {1}, committed to {2} over {3} and {4} via livestream from their high school gym.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}, и объявляет об этом в прямом эфире из школьного спортзала."
+  ],
+  [
+    "{0}, {1}, picked up the {2} hat and announced their commitment. {3} and {4} held out hope to the end, but the decision was made to play in {5}.",
+    "{0}, {1}, надевает кепку {2} и объявляет о своём решении. Команды {3} и {4} надеялись до последнего, но игрок продолжит карьеру в {5}."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4} after a tight recruiting battle.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4} после напряжённой борьбы за игрока."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4} in a battle that was close throughout.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}. Все претенденты шли почти вровень."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4} after months of speculation.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4} после нескольких месяцев слухов."
+  ],
+  [
+    "{0}, {1}, decided on {2} over {3} and {4} after months of back and forth.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4} после нескольких месяцев колебаний."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4}, and will begin their college career in {5}.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}, и начнёт студенческую карьеру в {5}."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4}, and is excited to get to {5}.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}, и с нетерпением ждёт прибытия в {5}."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4} in a recruiting battle that ended without too much drama.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}. Борьба за игрока завершилась без лишних сюрпризов."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4}, which came as no surprise for those following his recruitment.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}. Для тех, кто следил за набором, это не стало неожиданностью."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4}, confirming most predictions about their college destination.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4} и подтвердив большинство прогнозов."
+  ],
+  [
+    "{0}, {1}, chose {2} over {3} and {4}, which had been crystal balled for some time.",
+    "{0}, {1}, выбирает {2}, отказав {3} и {4}. Эксперты давно предсказывали такой исход."
+  ],
+  [
+    "{0}, {1}, had been eyeing {2} for a while and finally decided to commit.",
+    "{0}, {1}, давно присматривался к {2} и наконец дал согласие."
+  ],
+  [
+    "{0} chooses {1}",
+    "{0} выбирает {1}"
+  ],
+  [
+    "{0} wins national championship",
+    "{0} выигрывает чемпионат страны"
+  ],
+  [
+    "{0} wins {1} matchup",
+    "{0} выигрывает матч · {1}"
+  ],
+  [
+    "{0} advances",
+    "{0} проходит дальше"
+  ],
+  [
+    "{0} wins epic game",
+    "{0} выигрывает эпический матч"
+  ],
+  [
+    "Epic game in {0}",
+    "Эпический матч в {0}"
+  ],
+  [
+    "{0} wins classic",
+    "{0} выигрывает матч, достойный классики"
+  ],
+  [
+    "{0} wins thriller",
+    "{0} выигрывает напряжённый матч"
+  ],
+  [
+    "Thriller in {0}",
+    "Невероятная развязка в {0}"
+  ],
+  [
+    "{0} win classic",
+    "{0} выигрывает матч, достойный классики"
+  ],
+  [
+    "{0} win thriller",
+    "{0} выигрывает напряжённый матч"
+  ],
+  [
+    "{0} dominate",
+    "{0} доминирует"
+  ],
+  [
+    "{0} crush {1}",
+    "{0} громит {1}"
+  ],
+  [
+    "{0} triumph in huge win",
+    "{0} одерживает крупную победу"
+  ],
+  [
+    "{0} deliver in blowout win",
+    "{0} побеждает с разгромным счётом"
+  ],
+  [
+    "{0} routs {1}",
+    "{0} громит {1}"
+  ],
+  [
+    "{0} destroys {1}",
+    "{0} разгромно побеждает {1}"
+  ],
+  [
+    "Domination in {0}",
+    "Полное превосходство в {0}"
+  ],
+  [
+    "{0} takes care of business",
+    "{0} уверенно делает своё дело"
+  ],
+  [
+    "{0} shocks in blowout win",
+    "{0} удивляет разгромной победой"
+  ],
+  [
+    "{0} dominates in {1} point win",
+    "{0} побеждает с преимуществом в {1} очков"
+  ],
+  [
+    "{0} secures {1} point win vs {2}",
+    "{0} побеждает {2} с преимуществом в {1} очков"
+  ],
+  [
+    "{0} triumphs over {1}",
+    "{0} берёт верх над {1}"
+  ],
+  [
+    "{0} outplays {1}",
+    "{0} переигрывает {1}"
+  ],
+  [
+    "{0} outlast {1}",
+    "{0} дожимает {1}"
+  ],
+  [
+    "{0} triumph over {1}",
+    "{0} берёт верх над {1}"
+  ],
+  [
+    "{0} survives",
+    "{0} вырывает победу"
+  ],
+  [
+    "{0} escapes with win",
+    "{0} с трудом добивается победы"
+  ],
+  [
+    "{0} pulls off upset",
+    "{0} неожиданно побеждает фаворита"
+  ],
+  [
+    "{0} narrowly upsets {1}",
+    "{0} с минимальным перевесом побеждает фаворита {1}"
+  ],
+  [
+    "{0} edges {1}",
+    "{0} побеждает {1} с небольшим перевесом"
+  ],
+  [
+    "{0} wins in close game",
+    "{0} выигрывает равный матч"
+  ],
+  [
+    "{0} wins at home {1} to {2}",
+    "{0} побеждает дома со счётом {1}–{2}"
+  ],
+  [
+    "{0} secures {1} point home victory",
+    "{0} одерживает домашнюю победу с преимуществом в {1} очков"
+  ],
+  [
+    "{0} defend home turf",
+    "{0} защищает своё поле"
+  ],
+  [
+    "{0} win by {1} at home",
+    "{0} побеждает дома с преимуществом в {1} очков"
+  ],
+  [
+    "{0} wins in {1}",
+    "{0} побеждает в {1}"
+  ],
+  [
+    "{0} win in {1}",
+    "{0} побеждает в {1}"
+  ],
+  [
+    "{0} wins in {1} OT",
+    "{0} побеждает после овертаймов · {1}"
+  ],
+  [
+    "{0} wins marathon",
+    "{0} выигрывает затяжной матч"
+  ],
+  [
+    "{0} outlasts {1} in thriller",
+    "{0} дожимает {1} в захватывающем матче"
+  ],
+  [
+    "{0} win in {1} OT",
+    "{0} побеждает после овертаймов · {1}"
+  ],
+  [
+    "{0} win in marathon",
+    "{0} выигрывает затяжной матч"
+  ],
+  [
+    "{0} capitalize on turnovers",
+    "{0} использует потери соперника"
+  ],
+  [
+    "{0} suffer {1} turnovers in loss",
+    "{0} терпит поражение после {1} потерь мяча"
+  ],
+  [
+    "{0} win turnover battle in {1}",
+    "{0} выигрывает борьбу за владение в {1}"
+  ],
+  [
+    "{0} cough it up {1} times in loss",
+    "{0} теряет мяч {1} раз и проигрывает"
+  ],
+  [
+    "{0} wins shootout",
+    "{0} выигрывает перестрелку нападений"
+  ],
+  [
+    "Points aplenty in {0}",
+    "Обилие очков в {0}"
+  ],
+  [
+    "Offenses soar in {0}",
+    "Триумф нападения в {0}"
+  ],
+  [
+    "{0} win shootout",
+    "{0} выигрывает перестрелку нападений"
+  ],
+  [
+    "{0} score big in {1}",
+    "{0} много забивает в {1}"
+  ],
+  [
+    "{0} wins defensive battle",
+    "{0} выигрывает битву защит"
+  ],
+  [
+    "{0} wins slugfest",
+    "{0} побеждает в упорной силовой борьбе"
+  ],
+  [
+    "Defense dominates in {0}",
+    "Защита правит бал в {0}"
+  ],
+  [
+    "Old-school football in {0}",
+    "Футбол старой школы в {0}"
+  ],
+  [
+    "{0} win defensive battle",
+    "{0} выигрывает битву защит"
+  ],
+  [
+    "{0} win slugfest",
+    "{0} побеждает в упорной силовой борьбе"
+  ],
+  [
+    "{0} shut down {1}",
+    "{0} останавливает нападение {1}"
+  ],
+  [
+    "{0} airs it out in {1}",
+    "{0} успешно атакует пасом в {1}"
+  ],
+  [
+    "{0} dominates through the air",
+    "{0} доминирует в пасовой игре"
+  ],
+  [
+    "{0} passes for {1}, secure win",
+    "{0} набирает пасом {1} ярдов и побеждает"
+  ],
+  [
+    "{0} air it out in {1}",
+    "{0} успешно атакует пасом в {1}"
+  ],
+  [
+    "{0} air it out in win",
+    "Пасовая игра приносит {0} победу"
+  ],
+  [
+    "{0} runs wild in {1}",
+    "{0} неудержимо выносит мяч в {1}"
+  ],
+  [
+    "{0} dominates on the ground",
+    "{0} доминирует в выносной игре"
+  ],
+  [
+    "{0} rushes for {1}, secure win",
+    "{0} набирает выносом {1} ярдов и побеждает"
+  ],
+  [
+    "{0} run wild in {1}",
+    "{0} неудержимо выносит мяч в {1}"
+  ],
+  [
+    "{0} ground and pound to win",
+    "Силовые выносы приносят {0} победу"
+  ],
+  [
+    "{0} defense dominates",
+    "Защита {0} доминирует"
+  ],
+  [
+    "Defense stars for {0}",
+    "Защита становится главным героем {0}"
+  ],
+  [
+    "Stifling defense helps {0}",
+    "Цепкая защита помогает {0}"
+  ],
+  [
+    "{0} defense suffocates {1}",
+    "Защита {0} сдерживает нападение {1}"
+  ],
+  [
+    "{0} lock down {1}",
+    "{0} наглухо закрывает {1}"
+  ],
+  [
+    "{0} starts season with win",
+    "{0} начинает сезон с победы"
+  ],
+  [
+    "{0} wins season opener",
+    "{0} выигрывает стартовый матч сезона"
+  ],
+  [
+    "{0} win season opener",
+    "{0} выигрывает стартовый матч сезона"
+  ],
+  [
+    "{0} caps regular season with win",
+    "{0} завершает регулярный сезон победой"
+  ],
+  [
+    "{0} cap regular season with win",
+    "{0} завершает регулярный сезон победой"
+  ],
+  [
+    "{0} stays unbeaten",
+    "{0} продолжает идти без поражений"
+  ],
+  [
+    "{0} stays perfect",
+    "{0} сохраняет идеальный результат"
+  ],
+  [
+    "{0} remains undefeated",
+    "{0} остаётся непобеждённой командой"
+  ],
+  [
+    "{0} improves to {1}",
+    "{0} улучшает результат до {1}"
+  ],
+  [
+    "{0} stay unbeaten",
+    "{0} продолжает идти без поражений"
+  ],
+  [
+    "{0} stay perfect",
+    "{0} сохраняет идеальный результат"
+  ],
+  [
+    "{0} remain undefeated",
+    "{0} остаётся непобеждённой командой"
+  ],
+  [
+    "{0} improve to {1}",
+    "{0} улучшает результат до {1}"
+  ],
+  [
+    "{0} suffers first loss",
+    "{0} терпит первое поражение"
+  ],
+  [
+    "Unbeaten season ends for {0}",
+    "Беспроигрышная серия {0} прерывается"
+  ],
+  [
+    "{0} falls to {1}",
+    "{0} уступает {1}"
+  ],
+  [
+    "{0} suffer first loss",
+    "{0} терпит первое поражение"
+  ],
+  [
+    "{0} fall to {1}",
+    "{0} уступает {1}"
+  ],
+  [
+    "{0} wins first game",
+    "{0} одерживает первую победу"
+  ],
+  [
+    "{0} ends losing streak",
+    "{0} прерывает серию поражений"
+  ],
+  [
+    "{0} win first game",
+    "{0} одерживает первую победу"
+  ],
+  [
+    "{0} end losing streak",
+    "{0} прерывает серию поражений"
+  ],
+  [
+    "{0} loses again",
+    "{0} снова проигрывает"
+  ],
+  [
+    "{0} lose again",
+    "{0} снова проигрывает"
+  ],
+  [
+    "Champions! {0} defeated {1} {2} to {3}, etching their name in history as this year's national champion.",
+    "Чемпионы! {0} побеждает {1} со счётом {2}–{3} и вписывает своё имя в историю как чемпион страны этого года."
+  ],
+  [
+    "{0} defeated {1} {2} to {3} in the {4}, securing their spot in the national championship game.",
+    "{0} побеждает {1} со счётом {2}–{3} в матче {4} и выходит в финал чемпионата страны."
+  ],
+  [
+    "{0} defeated {1} {2} to {3} in {4}, advancing to the next round of the playoffs.",
+    "{0} побеждает {1} со счётом {2}–{3} в матче {4} и проходит в следующий раунд плей-офф."
+  ],
+  [
+    "{0} defeated {1} {2} to {3} in the {4}, advancing to the next round of the playoffs.",
+    "{0} побеждает {1} со счётом {2}–{3} в матче {4} и проходит в следующий раунд плей-офф."
+  ],
+  [
+    "{0} defeated {1} {2} to {3} in {4}, crowning themselves as conference champions.",
+    "{0} побеждает {1} со счётом {2}–{3} в матче {4} и становится чемпионом конференции."
+  ],
+  [
+    "{0} defeated {1} {2} to {3} in a classic matchup.",
+    "{0} побеждает {1} со счётом {2}–{3} в матче, достойном классики."
+  ],
+  [
+    "What a game! {0} defeated {1} {2} to {3} in a great matchup that went down to the wire.",
+    "Вот это матч! {0} побеждает {1} со счётом {2}–{3} в поединке, исход которого решился на последних секундах."
+  ],
+  [
+    "A thrilling game saw {0} defeat {1} {2} to {3}.",
+    "В захватывающем матче {0} побеждает {1} со счётом {2}–{3}."
+  ],
+  [
+    "A high-scoring game saw {0} defeat {1} {2} to {3}.",
+    "В результативном матче {0} побеждает {1} со счётом {2}–{3}."
+  ],
+  [
+    "A defensive battle saw {0} defeat {1} {2} to {3}.",
+    "В битве защит {0} побеждает {1} со счётом {2}–{3}."
+  ],
+  [
+    "{0} and {1} combined for {2} total yards in a game where offense reigned.",
+    "Нападение царило на поле. Команды {0} и {1} суммарно набрали {2} ярдов."
+  ],
+  [
+    "{0} and {1} combined for {2} total yards in a defensive battle.",
+    "В матче защит команды {0} и {1} суммарно набрали {2} ярдов."
+  ],
+  [
+    "A close, evenly matched game saw {0} defeat {1} {2} to {3}.",
+    "В равном и напряжённом матче {0} побеждает {1} со счётом {2}–{3}."
+  ],
+  [
+    "There was a thriller in {0} as {1} defeated {2} {3} to {4}.",
+    "Захватывающая развязка в {0}. Команда {1} побеждает {2} со счётом {3}–{4}."
+  ],
+  [
+    "{0} prevailed in a heated rivalry showdown, winning against {1} {2} to {3}.",
+    "{0} берёт верх в принципиальном противостоянии, побеждая {1} со счётом {2}–{3}."
+  ],
+  [
+    "{0} earned bragging rights against {1}, winning the rivalry match {2} to {3}.",
+    "{0} получает право похвастаться победой над принципиальным соперником {1} со счётом {2}–{3}."
+  ],
+  [
+    "{0} defeated {1} {2} to {3}, earning their {4} win of the season.",
+    "{0} побеждает {1} со счётом {2}–{3}. Это победа № {4} в сезоне."
+  ],
+  [
+    "{0} defeated {1} in {2}, winning {3} to {4}.",
+    "{0} побеждает {1} в {2} со счётом {3}–{4}."
+  ],
+  [
+    "the {0}",
+    "{0}"
+  ],
+  [
+    "{0} passed for {1} yards and rushed for {2} more,",
+    "{0} набирает {1} ярдов пасом и ещё {2} выносом,"
+  ],
+  [
+    "and forced their opponent into {0} turnovers on the day.",
+    "и вынуждает соперника потерять мяч {0} раз."
+  ],
+  [
+    "and won despite turning the ball over {0} times.",
+    "и побеждает, несмотря на {0} собственных потерь мяча."
+  ],
+  [
+    "showcasing a strong passing game with an average of {0} yards per attempt.",
+    "демонстрируя сильную пасовую игру со средним результатом {0} ярдов за попытку."
+  ],
+  [
+    "establishing a strong running game with an average of {0} yards per attempt.",
+    "демонстрируя сильную выносную игру со средним результатом {0} ярдов за попытку."
+  ],
+  [
+    "but struggled to stop {0}'s passing game, allowing an average of {1} yards per attempt.",
+    "но с трудом сдерживает пасовую игру {0}, позволяя набирать в среднем {1} ярдов за попытку."
+  ],
+  [
+    "but struggled to stop {0}'s running game, allowing an average of {1} yards per attempt.",
+    "но с трудом сдерживает выносную игру {0}, позволяя набирать в среднем {1} ярдов за попытку."
+  ],
+  [
+    "and their defense held {0} to just {1} pass yards per attempt.",
+    "и позволяет {0} набирать пасом лишь {1} ярдов за попытку."
+  ],
+  [
+    "and their defense held {0} to just {1} rush yards per attempt.",
+    "и позволяет {0} набирать выносом лишь {1} ярдов за попытку."
+  ],
+  [
+    "and their defense held {0} to just {1} total yards.",
+    "и позволяет {0} набрать лишь {1} ярдов всего."
+  ],
+  [
+    "and their explosive offense led to {0} big plays.",
+    "а взрывное нападение обеспечивает {0} крупных продвижений."
+  ],
+  [
+    "and they were able to keep drives alive with {0} separate fourth down conversions.",
+    "и продлевает серии нападения, реализовав четвёртый даун {0} раз."
+  ],
+  [
+    "and their defense was able to get to the quarterback, earning {0} sacks.",
+    "а защита добирается до квотербека и делает {0} сэков."
+  ],
+  [
+    "and they controlled the clock, holding the ball for over {0} minutes.",
+    "и контролирует время, владея мячом более {0} минут."
+  ],
+  [
+    "despite holding the ball for just {0} minutes.",
+    "несмотря на владение мячом лишь {0} минут."
+  ],
+  [
+    "outgaining their opponent by {0}{1} total yards.",
+    "превосходя соперника на {0}{1} ярдов."
+  ],
+  [
+    "{0} moved to {1} on the season, while {2} fell to {3}.",
+    "{0} улучшает результат сезона до {1}, а {2} опускается до {3}."
+  ],
+  [
+    "{0} moved to {1} and a #{2} ranking in the latest poll",
+    "{0} улучшает результат до {1} и занимает место № {2} в последнем рейтинге"
+  ],
+  [
+    "The #{0} ranked {1} moved to {2} on the season",
+    "Команда {1}, занимающая место № {0}, улучшает результат сезона до {2}"
+  ],
+  [
+    "{0} moved to {1} on the season",
+    "{0} улучшает результат сезона до {1}"
+  ],
+  [
+    "The {0} moved to {1} on the season",
+    "{0} улучшает результат сезона до {1}"
+  ],
+  [
+    "{0} fell to {1} and a #{2} ranking",
+    "Результат {0} ухудшается до {1}, команда занимает место № {2}"
+  ],
+  [
+    "the #{0} ranked {1} fell to {2}",
+    "Результат команды {1}, занимающей место № {0}, ухудшается до {2}"
+  ],
+  [
+    "{0} fell to {1}",
+    "Результат {0} ухудшается до {1}"
+  ],
+  [
+    "the {0} fell to {1} with the loss",
+    "После поражения результат {0} ухудшается до {1}"
+  ],
+  [
+    "{0}, while {1}.",
+    "{0}, а {1}."
+  ],
+  [
+    "{0} crowned champion",
+    "{0} становится чемпионом"
+  ],
+  [
+    "{0} dominates",
+    "{0} доминирует"
+  ],
+  [
+    "{0} annihilates",
+    "{0} громит соперника"
+  ],
+  [
+    "{0} shows dominance",
+    "{0} показывает полное превосходство"
+  ],
+  [
+    "{0} wins big",
+    "{0} крупно побеждает"
+  ],
+  [
+    "{0} triumphs",
+    "{0} торжествует"
+  ],
+  [
+    "Blowout in {0}",
+    "Разгром в {0}"
+  ],
+  [
+    "{0} wins close game",
+    "{0} выигрывает равный матч"
+  ],
+  [
+    "{0} squeaks by",
+    "{0} с трудом выигрывает"
+  ],
+  [
+    "{0} wins at home",
+    "{0} побеждает дома"
+  ],
+  [
+    "{0} defends home turf",
+    "{0} защищает своё поле"
+  ],
+  [
+    "{0} beats {1}",
+    "{0} обыгрывает {1}"
+  ],
+  [
+    "{0} defeats {1}",
+    "{0} побеждает {1}"
+  ],
+  [
+    "{0} outlasts {1}",
+    "{0} дожимает {1}"
+  ],
+  [
+    "{0} preseason rankings",
+    "Предсезонный рейтинг · {0}"
+  ],
+  [
+    "{0} power rankings",
+    "Рейтинг силы · {0}"
+  ],
+  [
+    "Week {0} league rankings",
+    "Рейтинг лиги · неделя {0}"
+  ],
+  [
+    "{0} final power rankings",
+    "Итоговый рейтинг силы · {0}"
+  ],
+  [
+    "{0} final rankings",
+    "Итоговый рейтинг · {0}"
+  ],
+  [
+    "{0} leads the {1}, with {2} and {3} rounding out {4} top three.",
+    "{0} возглавляет {1}. Команды {2} и {3} замыкают тройку лучших {4}."
+  ],
+  [
+    "{0} tops final {1}rankings",
+    "{0} возглавляет итоговый рейтинг {1}"
+  ],
+  [
+    "{0} leads preseason {1} rankings",
+    "{0} возглавляет предсезонный рейтинг {1}"
+  ],
+  [
+    "{0} leads preseason rankings",
+    "{0} возглавляет предсезонный рейтинг"
+  ],
+  [
+    "{0} leads rankings",
+    "{0} возглавляет рейтинг"
+  ],
+  [
+    "{0} leads award race",
+    "{0} лидирует в гонке за награду"
+  ],
+  [
+    "The {0} {1} leads {2} {3} {4}award watch.",
+    "{1} команды {0} лидирует в гонке за награду «{4}» по обзору {2} {3}."
+  ],
+  [
+    "Award watch: {0} leads the way",
+    "Гонка за награду. Лидирует {0}"
+  ],
+  [
+    "{0} front-runner",
+    "{0} — главный претендент"
+  ],
+  [
+    "{0} among top in {1}",
+    "{0} среди лучших в {1}"
+  ],
+  [
+    "{0} among {1}'s best",
+    "{0} среди лучших в {1}"
+  ],
+  [
+    "{0} leads the conversation",
+    "{0} в центре обсуждений"
+  ],
+  [
+    "Season opener in {0}",
+    "Старт сезона в {0}"
+  ],
+  [
+    "Season kicks off in {0}",
+    "Сезон начинается в {0}"
+  ],
+  [
+    "{0} hosts {1} in opener",
+    "{0} принимает {1} в стартовом матче"
+  ],
+  [
+    "{0} kick off season",
+    "{0} начинает сезон"
+  ],
+  [
+    "{0} host {1} in opener",
+    "{0} принимает {1} в стартовом матче"
+  ],
+  [
+    "{0} open season in {1}",
+    "{0} открывает сезон в {1}"
+  ],
+  [
+    "{0} open season with road test",
+    "{0} начинает сезон выездным испытанием"
+  ],
+  [
+    "Regular season finale in {0}",
+    "Финал регулярного сезона в {0}"
+  ],
+  [
+    "Regular season wraps up in {0}",
+    "Регулярный сезон завершается в {0}"
+  ],
+  [
+    "{0} hosts {1} in finale",
+    "{0} принимает {1} в последнем матче регулярного сезона"
+  ],
+  [
+    "{0} host {1} in finale",
+    "{0} принимает {1} в последнем матче регулярного сезона"
+  ],
+  [
+    "{0} close regular season in {1}",
+    "{0} завершает регулярный сезон в {1}"
+  ],
+  [
+    "{0} close regular season on the road",
+    "{0} завершает регулярный сезон на выезде"
+  ],
+  [
+    "Rivalry game in {0}",
+    "Матч принципиальных соперников в {0}"
+  ],
+  [
+    "Rivals clash in {0}",
+    "Принципиальное противостояние в {0}"
+  ],
+  [
+    "{0} face rival {1}",
+    "{0} встречается с принципиальным соперником {1}"
+  ],
+  [
+    "Rivals meet in {0}",
+    "Принципиальные соперники встречаются в {0}"
+  ],
+  [
+    "{0} on road against rival",
+    "{0} едет в гости к принципиальному сопернику"
+  ],
+  [
+    "{0} in rivalry road test",
+    "Выездное испытание для {0} в принципиальном матче"
+  ],
+  [
+    "{0} hosts rival",
+    "{0} принимает принципиального соперника"
+  ],
+  [
+    "{0} host rival",
+    "{0} принимает принципиального соперника"
+  ],
+  [
+    "Battle of the unbeatens in {0}",
+    "Битва непобеждённых в {0}"
+  ],
+  [
+    "Undefeated teams clash in {0}",
+    "Непобеждённые команды встречаются в {0}"
+  ],
+  [
+    "Winless teams clash in {0}",
+    "Команды без побед встречаются в {0}"
+  ],
+  [
+    "{0} {1} looks to stay unbeaten",
+    "{0} {1} стремится продолжить беспроигрышную серию"
+  ],
+  [
+    "{0} {1} looks to stay perfect",
+    "{0} {1} стремится сохранить идеальный результат"
+  ],
+  [
+    "{0} {1} look to stay perfect",
+    "{0} {1} стремится сохранить идеальный результат"
+  ],
+  [
+    "{0} {1} look to stay undefeated",
+    "{0} {1} стремится остаться без поражений"
+  ],
+  [
+    "#1 vs #2 in {0}",
+    "Первый против второго в {0}"
+  ],
+  [
+    "#1 {0} vs #2 {1}",
+    "№ 1 {0} против № 2 {1}"
+  ],
+  [
+    "Top 5 matchup in {0}",
+    "Встреча команд первой пятёрки в {0}"
+  ],
+  [
+    "{0} hosts big game",
+    "{0} принимает большой матч"
+  ],
+  [
+    "{0} host big game",
+    "{0} принимает большой матч"
+  ],
+  [
+    "Top 10 matchup in {0}",
+    "Встреча команд первой десятки в {0}"
+  ],
+  [
+    "{0} host top 10 game",
+    "{0} принимает соперника из первой десятки"
+  ],
+  [
+    "Ranked matchup in {0}",
+    "Встреча рейтинговых команд в {0}"
+  ],
+  [
+    "{0} hosts #{1} {2}",
+    "{0} принимает № {1} {2}"
+  ],
+  [
+    "Ball game in {0}",
+    "Футбольный матч в {0}"
+  ],
+  [
+    "Game on in {0}",
+    "Игра начинается в {0}"
+  ],
+  [
+    "{0} title game in {1}",
+    "Финал {0} в {1}"
+  ],
+  [
+    "{0} on the line",
+    "На кону · {0}"
+  ],
+  [
+    "{0} up for grabs",
+    "Борьба за {0}"
+  ],
+  [
+    "{0} title game: {1} vs {2}",
+    "Финал {0} · {1} против {2}"
+  ],
+  [
+    "{0} vie for {1} title",
+    "{0} борется за титул {1}"
+  ],
+  [
+    "{0} preview",
+    "Перед матчем · {0}"
+  ],
+  [
+    "For all the marbles: {0} vs {1}",
+    "Всё на кону · {0} против {1}"
+  ],
+  [
+    "This is it: {0} vs {1}",
+    "Решающий матч · {0} против {1}"
+  ],
+  [
+    "{0} vie for national title",
+    "{0} борется за титул чемпиона страны"
+  ],
+  [
+    "Undefeateds clash: {0} vs {1}",
+    "Встреча непобеждённых · {0} против {1}"
+  ],
+  [
+    "The best NCG ever? {0} vs {1}",
+    "Лучший финал страны в истории? {0} против {1}"
+  ],
+  [
+    "{0} in {1}",
+    "{0} в {1}"
+  ],
+  [
+    "{0}: {1} vs {2}",
+    "{0} · {1} против {2}"
+  ],
+  [
+    "{0} hosts playoff matchup",
+    "{0} принимает матч плей-офф"
+  ],
+  [
+    "{0} with playoff road test",
+    "{0} ждёт выездное испытание в плей-офф"
+  ],
+  [
+    "{0} with top 10 matchup",
+    "{0} встречается с соперником из первой десятки"
+  ],
+  [
+    "{0} with ranked matchup",
+    "{0} встречается с рейтинговым соперником"
+  ],
+  [
+    "{0} faces off against {1}",
+    "{0} встречается с {1}"
+  ],
+  [
+    "{0} face off against {1}",
+    "{0} встречается с {1}"
+  ],
+  [
+    "{0} hosts {1}",
+    "{0} принимает {1}"
+  ],
+  [
+    "{0} faces road test",
+    "{0} ждёт испытание на выезде"
+  ],
+  [
+    "{0} host {1}",
+    "{0} принимает {1}"
+  ],
+  [
+    "{0} face road test",
+    "{0} ждёт испытание на выезде"
+  ],
+  [
+    "{0} takes on rival {1}",
+    "{0} встречается с принципиальным соперником {1}"
+  ],
+  [
+    "{0} takes on {1}",
+    "{0} играет против {1}"
+  ],
+  [
+    "{0} faces {1}",
+    "{0} встречается с {1}"
+  ],
+  [
+    "{0} vs {1} preview",
+    "Перед матчем {0} против {1}"
+  ],
+  [
+    "{0} travels to {1}",
+    "{0} отправляется в гости к {1}"
+  ],
+  [
+    "Home field for {0}",
+    "Своё поле для {0}"
+  ],
+  [
+    "{0} takes on {1} this week in {2}",
+    "На этой неделе {0} встречается с {1} в {2}"
+  ],
+  [
+    "The {0} take on the {1} this week in {2}",
+    "На этой неделе {0} встречается с {1} в {2}"
+  ],
+  [
+    "in a battle for the {0} title.",
+    "в борьбе за титул {0}."
+  ],
+  [
+    ", as each team looks to advance past the {0}.",
+    "Обе команды стремятся пройти стадию {0}."
+  ],
+  [
+    "in what should be a fun {0}.",
+    "в матче {0}, который обещает быть интересным."
+  ],
+  [
+    "{0} has a clear talent advantage,",
+    "{0} имеет явное преимущество по классу игроков,"
+  ],
+  [
+    "{0} has a slight talent advantage,",
+    "{0} имеет небольшое преимущество по классу игроков,"
+  ],
+  [
+    "but {0}",
+    "но {0}"
+  ],
+  [
+    "{0} has the clearly better statistical profile.",
+    "{0} имеет явное преимущество по статистике."
+  ],
+  [
+    "{0} has the statistical edge this season.",
+    "{0} имеет статистическое преимущество в этом сезоне."
+  ],
+  [
+    "{0} has the {1} ranked scoring offense, putting up {2} points per game.",
+    "{0} занимает место № {1} по результативности нападения, набирая {2} очков за матч."
+  ],
+  [
+    "{0} has the {1} ranked total offense, averaging {2} yards per game.",
+    "{0} занимает место № {1} по общей продуктивности нападения, набирая {2} ярдов за матч."
+  ],
+  [
+    "{0} has the {1} ranked passing offense, averaging {2} passing yards per game.",
+    "{0} занимает место № {1} по пасовому нападению, набирая {2} ярдов пасом за матч."
+  ],
+  [
+    "{0} has the {1} most efficient passing offense, averaging {2} yards per pass.",
+    "{0} занимает место № {1} по эффективности паса, набирая {2} ярдов за попытку."
+  ],
+  [
+    "{0} has the {1} ranked rushing offense, averaging {2} rushing yards per game.",
+    "{0} занимает место № {1} по выносному нападению, набирая {2} ярдов выносом за матч."
+  ],
+  [
+    "{0} has the {1} most efficient rushing offense, averaging {2} yards per run.",
+    "{0} занимает место № {1} по эффективности выноса, набирая {2} ярдов за попытку."
+  ],
+  [
+    "Ball control is a strength for {0}, as they hold the ball for an average of {1} minutes per game.",
+    "Контроль мяча — сильная сторона {0}. Среднее время владения составляет {1} минут за матч."
+  ],
+  [
+    "{0} has the {1} ranked scoring defense, allowing just {2} points per game.",
+    "{0} занимает место № {1} по результативности защиты, пропуская лишь {2} очков за матч."
+  ],
+  [
+    "{0} has the {1} ranked total defense, allowing just {2} yards per game.",
+    "{0} занимает место № {1} по общей продуктивности защиты, позволяя соперникам набирать лишь {2} ярдов за матч."
+  ],
+  [
+    "{0} has the {1} ranked passing defense, allowing just {2} passing yards per game.",
+    "{0} занимает место № {1} по защите от паса, позволяя соперникам набирать лишь {2} ярдов пасом за матч."
+  ],
+  [
+    "A matchup to watch involves the {0} pass defense, as they allow just {1} yards per pass.",
+    "Стоит обратить внимание на защиту {0} от паса. Соперники набирают лишь {1} ярдов за попытку."
+  ],
+  [
+    "{0} has the {1} ranked rushing defense, allowing just {2} rushing yards per game.",
+    "{0} занимает место № {1} по защите от выноса, позволяя соперникам набирать лишь {2} ярдов выносом за матч."
+  ],
+  [
+    "Teams have struggled to run against {0}, as they allow just {1} yards per rush.",
+    "Соперникам трудно выносить мяч против {0}. В среднем им удаётся набрать лишь {1} ярдов за попытку."
+  ],
+  [
+    "{0} takes home POTY",
+    "{0} становится игроком года"
+  ],
+  [
+    "{0} wins {1}",
+    "{0} выигрывает {1}"
+  ],
+  [
+    "{0} Chronicle",
+    "Хроника · {0}"
+  ],
+  [
+    "{0} Gazette",
+    "Вестник · {0}"
+  ],
+  [
+    "{0} Herald",
+    "Глашатай · {0}"
+  ],
+  [
+    "{0} Post",
+    "Почта · {0}"
+  ],
+  [
+    "{0} Times",
+    "Времена · {0}"
+  ],
+  [
+    "{0} Tribune",
+    "Трибуна · {0}"
+  ],
+  [
+    "{0} Journal",
+    "Журнал · {0}"
+  ],
+  [
+    "{0} Sun",
+    "Солнце · {0}"
+  ],
+  [
+    "{0} Daily",
+    "Ежедневник · {0}"
+  ],
+  [
+    "{0} Weekly",
+    "Еженедельник · {0}"
+  ],
+  [
+    "{0} Ledger",
+    "Ведомости · {0}"
+  ],
+  [
+    "{0} Record",
+    "Летопись · {0}"
+  ],
+  [
+    "{0} Courier",
+    "Курьер · {0}"
+  ],
+  [
+    "{0} Observer",
+    "Обозреватель · {0}"
+  ],
+  [
+    "{0} Bulletin",
+    "Бюллетень · {0}"
+  ],
+  [
+    "{0} Register",
+    "Реестр · {0}"
+  ],
+  [
+    "{0} Sports Journal",
+    "Спортивный журнал · {0}"
+  ],
+  [
+    "The {0} {1} takes home prestigious award as {2} in the {3}.",
+    "{0} {1} получает престижную награду как {2} в {3}."
+  ],
+  [
+    "{0} conference",
+    "конференция {0}"
+  ],
+  [
+    "{0} Watch",
+    "Претенденты · {0}"
+  ],
+  [
+    "{0} {1} draft risks",
+    "{0} {1} · риск ухода на драфт"
+  ],
+  [
+    "{0} {1} transfer risks",
+    "{0} {1} · риск трансфера"
+  ],
+  [
+    "{0} points",
+    "Очки · {0}"
+  ],
+  [
+    "Total: {0}",
+    "Всего · {0}"
+  ],
+  [
+    "{0} remaining at end of {1}.",
+    "Остаток на конец {1} · {0}."
+  ],
+  [
+    "{0} budget additions",
+    "Пополнение бюджета · {0}"
+  ],
+  [
+    "Level {0}",
+    "Уровень {0}"
+  ],
+  [
+    "Fulfill by {0}",
+    "Выполнить до {0}"
+  ],
+  [
+    "By selecting this opponent, the contract will have scheduled {0} / {1} games required.",
+    "При выборе этого соперника будет запланировано {0} из {1} обязательных матчей по контракту."
+  ],
+  [
+    "This contract still needs {0} and {1}{2}",
+    "Для выполнения контракта ещё нужны {0} и {1}{2}"
+  ],
+  [
+    "This contract still needs {0}{1}",
+    "Для выполнения контракта ещё нужны {0}{1}"
+  ],
+  [
+    "{0} / {1} games",
+    "Матчи · {0} из {1}"
+  ],
+  [
+    "If a contract expires, you will pay back any money earned from the contract in addition to a penalty of {0}.",
+    "Если срок контракта истечёт, придётся вернуть все полученные по нему средства и заплатить штраф {0}."
+  ],
+  [
+    "{0} School Updates",
+    "{0} · обновления университета"
+  ],
+  [
+    "Each year, you will gain or lose fanbase passion points based on team performance. {0}",
+    "Каждый год результаты команды повышают или снижают увлечённость болельщиков. {0}"
+  ],
+  [
+    "at end of year ({0})",
+    "в конце года ({0})"
+  ],
+  [
+    "{0} Offense Expectations",
+    "{0} · ожидания от нападения"
+  ],
+  [
+    "{0} Defense Expectations",
+    "{0} · ожидания от защиты"
+  ],
+  [
+    "{0} {1} Summary",
+    "{0} {1} · итоги"
+  ],
+  [
+    "Bonus negotiations are free, but after will cost {0} coach integrity each. You currently have {1} coach integrity.",
+    "Бонусные переговоры бесплатны. Последующие переговоры стоят по {0} репутации тренера. Сейчас у вас {1}."
+  ],
+  [
+    "Each negotiation will cost {0} coach integrity. You currently have {1} coach integrity.",
+    "Каждые переговоры стоят {0} репутации тренера. Сейчас у вас {1}."
+  ],
+  [
+    "Convince {0} to use a different {1} bonus objective for the season, or change their interest entirely.",
+    "Убедите {0} выбрать другую цель категории {1} на сезон или полностью сменить интерес."
+  ],
+  [
+    "Bonus negotiations are free, but each additional negotiation will cost {0} coach integrity.",
+    "Бонусные переговоры бесплатны. Каждые дополнительные переговоры стоят {0} репутации тренера."
+  ],
+  [
+    "Each negotiation will cost {0} coach integrity.",
+    "Каждые переговоры стоят {0} репутации тренера."
+  ],
+  [
+    "{0} Booster Negotiation",
+    "{0} · переговоры со спонсорами"
+  ],
+  [
+    "{0} Head Coach {1} Expectations",
+    "{0} · ожидания главного тренера {1}"
+  ],
+  [
+    "As {0}, your boss is ultimately the head coach. They may decide to fire you if you don't meet their expectations and their opinion score goes negative.",
+    "В должности {0} вы подчиняетесь главному тренеру. Он может уволить вас при невыполнении ожиданий и отрицательном отношении."
+  ],
+  [
+    "New {0} Athletic Director!",
+    "Новый спортивный директор {0}!"
+  ],
+  [
+    "{0} Athletic Director {1} Expectations",
+    "{0} · ожидания спортивного директора {1}"
+  ],
+  [
+    "{0} {1} Schedule",
+    "{0} {1} · календарь"
+  ],
+  [
+    "{0} {1} Roster",
+    "{0} {1} · состав"
+  ],
+  [
+    "As your school prestige increases, boosters are attracted. {0} has taken note and decided to begin donating.",
+    "Рост престижа университета привлекает спонсоров. {0} обратил внимание на ваши успехи и решил начать финансовую поддержку."
+  ],
+  [
+    "As {0} departed the booster program, {1} saw the opportunity and decided to step up.",
+    "После ухода спонсора {0} появился шанс для нового участника. {1} решил поддержать университет."
+  ],
+  [
+    "{0} has decided to begin donations again, spurred by the recent prestige gains.",
+    "{0} решил возобновить пожертвования благодаря недавнему росту престижа."
+  ],
+  [
+    "{0} has decided to pause donations for now. If {1} returns to its past heights, they may return.",
+    "{0} пока приостанавливает пожертвования. Если {1} вернётся к прежним высотам, поддержка может возобновиться."
+  ],
+  [
+    "{0} has died, and their estate is less eager to donate to {1}.",
+    "{0} умер. Распорядители наследства менее охотно жертвуют средства университету {1}."
+  ],
+  [
+    "{0} has departed the booster program due to recent financial difficulties.",
+    "{0} покидает программу спонсорства из-за недавних финансовых трудностей."
+  ],
+  [
+    "{0} Booster Updates",
+    "{0} · изменения среди спонсоров"
+  ],
+  [
+    "{0} booster objectives for {1}",
+    "{0} · цели спонсоров на {1}"
+  ],
+  [
+    "{0} player promises for {1}",
+    "{0} · обещания игрокам на {1}"
+  ],
+  [
+    "Advance game week ({0})",
+    "Завершить игровую неделю ({0})"
+  ],
+  [
+    "Total scholarships for {0}:",
+    "Общее число стипендий {0} ·"
+  ],
+  [
+    "Make a promise: {0} in {1}",
+    "Пообещать · {0} в {1}"
+  ],
+  [
+    "Make a promise to keep the player. If broken, this will cost you {0} coach integrity.",
+    "Обещание может удержать игрока. За его нарушение вы потеряете {0} репутации тренера."
+  ],
+  [
+    "Make a deal: Pay player {0} to stay for {1}",
+    "Договориться · заплатить игроку {0}, чтобы он остался на {1}"
+  ],
+  [
+    "Not enough money to retain player. NIL money available: {0}.",
+    "Недостаточно средств для удержания игрока. Доступный бюджет NIL · {0}."
+  ],
+  [
+    "Pay with an NIL deal to keep the player. NIL money available: {0}.",
+    "Удержать игрока выплатой по договору NIL. Доступный бюджет · {0}."
+  ],
+  [
+    "Some can be convinced to stay with coach promises {0}.",
+    "Некоторых можно удержать обещаниями тренера {0}."
+  ],
+  [
+    "These are players leaving school early to enter the draft. {0}",
+    "Эти игроки досрочно покидают университет ради драфта. {0}"
+  ],
+  [
+    "Projected {0} depth: {1}",
+    "Ожидаемая глубина на позиции {0} · {1}"
+  ],
+  [
+    "{0} Players Leaving",
+    "{0} · уходящие игроки"
+  ],
+  [
+    "{0} Pro Draft",
+    "{0} · профессиональный драфт"
+  ],
+  [
+    "{0} Recruiting Class",
+    "{0} · набор новичков"
+  ],
+  [
+    "Only with {0} offer",
+    "Только с предложением от {0}"
+  ],
+  [
+    "{0} {1} Offseason Gains",
+    "{0} {1} · межсезонный прогресс"
+  ],
+  [
+    "Gained {0} {1}!",
+    "Получено {0} {1}!"
+  ],
+  [
+    "Lost {0} {1}.",
+    "Потеряно {0} {1}."
+  ],
+  [
+    "At level {0}, you can choose to exchange an existing skill badge for a new one.",
+    "На уровне {0} можно обменять существующий значок навыка на новый."
+  ],
+  [
+    "When adding a new skill, {0} random skills are available to choose from. These will change each time a skill is earned.",
+    "При получении навыка предлагается {0} случайных вариантов. При следующем получении набор изменится."
+  ],
+  [
+    "Choose \"{0}\" skill badge?",
+    "Выбрать значок навыка «{0}»?"
+  ],
+  [
+    "This will be replaced in favor of the \"{0}\" skill badge.",
+    "Этот значок будет заменён значком навыка «{0}»."
+  ],
+  [
+    "Earned {0} skill badge{1}!",
+    "Получены значки навыков · {0}{1}!"
+  ],
+  [
+    "{0} has decided to retire at age {1}.",
+    "{0} решает завершить карьеру в возрасте {1} лет."
+  ],
+  [
+    "HC {0}",
+    "Главный тренер {0}"
+  ],
+  [
+    "At age {0}, you've decided to call it a career. Thanks for playing.",
+    "В возрасте {0} лет вы решили завершить карьеру. Спасибо за игру."
+  ],
+  [
+    "At age {0}, your family has finally convinced you to retire. Thanks for playing.",
+    "В возрасте {0} лет семья наконец убедила вас завершить карьеру. Спасибо за игру."
+  ],
+  [
+    "{0} {1} has decided to retire at age {2}, after {3} of coaching.",
+    "{0} {1} решает завершить карьеру в возрасте {2} лет после {3} тренерской работы."
+  ],
+  [
+    "They retire as a {0}-time conference champion, {1}-time national champion, and with a career HC record of {2}-{3}.",
+    "За карьеру выиграно титулов конференции · {0}, титулов страны · {1}. Результат главным тренером · {2}–{3}."
+  ],
+  [
+    "They earned a total of {0} in their career.",
+    "Всего за карьеру заработано {0}."
+  ],
+  [
+    "Are you sure you want to retire as {0} {1}?",
+    "Завершить карьеру в должности {0} {1}?"
+  ],
+  [
+    "Click to end your coaching career and retire. You will be forced to retire at age {0}.",
+    "Завершить тренерскую карьеру. Обязательное завершение наступает в возрасте {0} лет."
+  ],
+  [
+    "Offensive Coordinator{0}",
+    "Координатор нападения{0}"
+  ],
+  [
+    "Defensive Coordinator{0}",
+    "Координатор защиты{0}"
+  ],
+  [
+    "Head Coach{0}",
+    "Главный тренер{0}"
+  ],
+  [
+    "{0} {1} Coach Updates",
+    "{0} {1} · изменения тренеров"
+  ],
+  [
+    "Available {0} Candidates",
+    "Доступные кандидаты · {0}"
+  ],
+  [
+    "These are all coaches who will accept a {0} role at {1}.",
+    "Все тренеры, готовые занять должность {0} в {1}."
+  ],
+  [
+    "{0} {1} Coaching Staff",
+    "{0} {1} · тренерский штаб"
+  ],
+  [
+    "This is the staff so far for the upcoming {0} season.",
+    "Текущий состав штаба на предстоящий сезон {0}."
+  ],
+  [
+    "Current {0}",
+    "Действующий {0}"
+  ],
+  [
+    "This is the {0} currently on staff. If they are still available, you can retain them, or elect to hire someone new.",
+    "Сейчас должность {0} занимает этот тренер. Если он доступен, можно сохранить его в штабе или нанять другого."
+  ],
+  [
+    "This coach has been promoted to HC of your team. Select a new {0} below.",
+    "Этот тренер повышен до главного тренера вашей команды. Выберите нового специалиста на должность {0} ниже."
+  ],
+  [
+    "This is the {0} currently on staff. Their contract was renegotiated, so they are staying on staff.",
+    "Сейчас должность {0} занимает этот тренер. Его контракт пересмотрен, и он остаётся в штабе."
+  ],
+  [
+    "Select {0}",
+    "Выбрать · {0}"
+  ],
+  [
+    "This also means firing {0} as head coach.",
+    "Это также означает увольнение {0} с должности главного тренера."
+  ],
+  [
+    "This also means firing {0} as offensive coordinator. {1} {2}",
+    "Это также означает увольнение {0} с должности координатора нападения. {1} {2}"
+  ],
+  [
+    "Fired OC after {0} {1}{2}",
+    "Уволен координатор нападения после {0} {1}{2}"
+  ],
+  [
+    "This also means firing {0} as defensive coordinator. {1} {2}",
+    "Это также означает увольнение {0} с должности координатора защиты. {1} {2}"
+  ],
+  [
+    "Fired DC after {0} {1}{2}",
+    "Уволен координатор защиты после {0} {1}{2}"
+  ],
+  [
+    "Coach integrity will remain the same as they have been in that role for {0} {1}{2}.",
+    "Репутация тренера не изменится, поскольку срок работы в должности составляет {0} {1}{2}."
+  ],
+  [
+    "A penalty of {0} will be applied to coach integrity as the coach has only been in that role for {1} {2}{3}.",
+    "Репутация тренера снизится на {0}, поскольку срок работы в должности составляет лишь {1} {2}{3}."
+  ],
+  [
+    "New head coaches cannot be fired for {0} years.",
+    "Нового главного тренера нельзя увольнять в течение {0} лет."
+  ],
+  [
+    "{0} {1} as {2}?",
+    "{0} {1} на должность {2}?"
+  ],
+  [
+    "{0} in role",
+    "Срок в должности · {0}"
+  ],
+  [
+    "HC {0} has been retained on staff",
+    "Главный тренер {0} остаётся в штабе"
+  ],
+  [
+    "HC {0} has been hired as the new {1} of {2}",
+    "Главный тренер {0} назначен на должность {1} в {2}"
+  ],
+  [
+    "HC {0} has decided to retire after a long career",
+    "Главный тренер {0} решил завершить долгую карьеру"
+  ],
+  [
+    "Unfortunately, I've made the call to fire HC {0}",
+    "К сожалению, я принял решение уволить главного тренера {0}"
+  ],
+  [
+    "\"{0}, and I think you're the right guy to step in and take the reins. Would you be interested in being our new head coach?\"",
+    "«{0}. Я считаю, что вы готовы взять управление в свои руки. Хотите стать нашим новым главным тренером?»"
+  ],
+  [
+    "\"{0}, and we've decided to go in a new direction for next year. I'm sorry, but you'll need to find a job elsewhere.\"",
+    "«{0}. Мы решили двигаться в другом направлении. К сожалению, вам придётся искать работу в другом месте»."
+  ],
+  [
+    "\"The {0} was alright this year based on expectations, but I'm sure you and I agree more success is possible.\"",
+    "«По сравнению с ожиданиями направление {0} показало приемлемый результат. Но мы оба понимаем, что способны на большее»."
+  ],
+  [
+    "\"Well, this year's {0} could've done better, but I still think you're the right guy for the job. Let's move forward together to bigger and better things.\"",
+    "«В этом году направление {0} могло выступить лучше, но я всё ещё верю в вас. Давайте вместе двигаться к большим успехам»."
+  ],
+  [
+    "\"I'm very disappointed with the {0} this year, but I know you've done well in the past. Let's forget about this and ensure it was a one year blip.\"",
+    "«Направление {0} меня очень разочаровало, но я помню ваши прошлые успехи. Постараемся сделать этот спад исключением»."
+  ],
+  [
+    "\"You did an excellent job on {0} this year; way to turn the ship around and start on the right path again. Let's keep this going.\"",
+    "«Вы отлично поработали над направлением {0}! Вам удалось вернуть команду на верный путь. Продолжим!»"
+  ],
+  [
+    "\"Not a bad year for the {0}, but not great either. I'm hoping you can impress me next year.\"",
+    "«Для направления {0} год был неплохим, но и не выдающимся. Надеюсь, в следующем году вы сумеете меня впечатлить»."
+  ],
+  [
+    "Accepting a new HC job after just {0} {1} in the current role will incur a coach integrity penalty of {2}.",
+    "Переход на новую должность главного тренера после лишь {0} {1} на текущей работе снизит репутацию на {2}."
+  ],
+  [
+    "Stay at {0}?",
+    "Остаться в {0}?"
+  ],
+  [
+    "Stay at {0} as {1}",
+    "Остаться в {0} на должности {1}"
+  ],
+  [
+    "Accept {0} {1} Job",
+    "Принять должность {1} в {0}"
+  ],
+  [
+    "This means accepting a new job at this school as {0}. This cannot be undone.",
+    "Вы примете новую работу в этом университете на должности {0}. Это действие необратимо."
+  ],
+  [
+    "Changed jobs after {0} {1}",
+    "Смена работы после {0} {1}"
+  ],
+  [
+    "Yes, {0}",
+    "Да, {0}"
+  ],
+  [
+    "These are the players on {0} that still have elibility next year, along with all incoming recruits. Roster fit may be a factor in your decision to accept the job.",
+    "Игроки {0}, сохраняющие право участия в следующем году, и будущие новички. Соответствие состава вашим требованиям поможет оценить предложение работы."
+  ],
+  [
+    "\"I've been impressed by your work as coordinator here at {0}, and I think you can continue to help as our HC. Are you ready to step up and take the job?\"",
+    "«Ваша работа координатором в {0} меня впечатлила. Думаю, вы сможете помочь нам и как главный тренер. Готовы сделать следующий шаг?»"
+  ],
+  [
+    "\"I've been following your career and think you'd be a great fit here at {0}. Will you accept a position as our head coach?\"",
+    "«Я слежу за вашей карьерой и считаю, что вы отлично подойдёте {0}. Примете предложение стать нашим главным тренером?»"
+  ],
+  [
+    "\"We've done good work together in the past, and I think you'd be a great fit here at {0}. Will you accept a position as our {1}\"",
+    "«Мы уже хорошо работали вместе. Уверен, вы подойдёте {0}. Примете должность {1}?»"
+  ],
+  [
+    "\"I've been following your career and think you'd do well running the {0} here at {1}. Will you accept a position as our {2}?\"",
+    "«Я слежу за вашей карьерой и считаю, что вы хорошо возглавите направление {0} в {1}. Примете должность {2}?»"
+  ],
+  [
+    "Select Coaching Position for {0}",
+    "Выберите тренерскую должность для {0}"
+  ],
+  [
+    "Team {0} does not have a head coach available. Cannot accept coordinator job.",
+    "В команде {0} нет доступного главного тренера. Принять должность координатора нельзя."
+  ],
+  [
+    "Renegotiate {0}'s contract?",
+    "Пересмотреть контракт {0}?"
+  ],
+  [
+    "{0}x National COTY",
+    "Лучший тренер страны · {0} раз"
+  ],
+  [
+    "{0} Coaching Staff",
+    "{0} · тренерский штаб"
+  ],
+  [
+    "{0} Coach Carousel",
+    "{0} · смена тренеров"
+  ],
+  [
+    "This player was recruited as a {0} by the previous coaching staff. You can change this without any integrity cost.",
+    "Прежний штаб пригласил этого игрока на позицию {0}. Вы можете сменить её без потери репутации."
+  ],
+  [
+    "This player is an incoming ATH recruit, and was recruited as a {0}. Changing their position away from this will cost coach integrity.",
+    "Этот новичок-атлет был приглашён на позицию {0}. Её смена снизит репутацию тренера."
+  ],
+  [
+    "{0} total",
+    "Всего · {0}"
+  ],
+  [
+    "{0} {1} been assigned a position",
+    "{0} {1} назначенную позицию"
+  ],
+  [
+    "{0} {1} Position Changes",
+    "{0} {1} · смена позиций"
+  ],
+  [
+    "Training {0}",
+    "Подготовка · {0}"
+  ],
+  [
+    "The training gained +{0} extra due to breakthrough.",
+    "Прорыв дал дополнительный прирост +{0}."
+  ],
+  [
+    "{0}% less breakthrough chance as this is the player's {1} training.",
+    "Вероятность прорыва ниже на {0}%, поскольку это подготовка игрока № {1}."
+  ],
+  [
+    "Breakthrough! {0} increased by +{1} total.",
+    "Прорыв! Характеристика {0} выросла на +{1}."
+  ],
+  [
+    "Training succeeded for {0}, but no breakthrough occurred.",
+    "Подготовка улучшила {0}, но прорыва не произошло."
+  ],
+  [
+    "Training failed. {0} did not improve.",
+    "Подготовка не удалась. Характеристика {0} не улучшилась."
+  ],
+  [
+    "Potential gains: {0} - {1}",
+    "Возможный прирост · {0}–{1}"
+  ],
+  [
+    "A breakthrough means an attribute gain over the minimum. This bonus is determined by the {0} training level ({1}).",
+    "Прорыв даёт прирост выше минимального. Бонус зависит от уровня подготовки тренера {0} ({1})."
+  ],
+  [
+    "Your team has {0} trainings still remaining; click \"Finish remaining trainings\" in the table below to use them.",
+    "У команды осталось занятий · {0}. Нажмите «Провести оставшиеся занятия» в таблице ниже."
+  ],
+  [
+    "You have {0} trainings still remaining!",
+    "У вас осталось занятий · {0}!"
+  ],
+  [
+    "As a coordinator, the HC recommends players to cut automatically. You can cut up to {0} non-recommended players with no penalty. {1}",
+    "Главный тренер автоматически рекомендует координатору отчисления. Без штрафа можно отчислить ещё {0} игроков вне рекомендаций. {1}"
+  ],
+  [
+    "Since there is a new Head Coach on staff, you can cut up to {0} players with no penalty. {1}",
+    "При новом главном тренере без штрафа можно отчислить до {0} игроков. {1}"
+  ],
+  [
+    "Each year, you can cut up to {0} players with no penalty. {1}",
+    "Каждый год без штрафа можно отчислить до {0} игроков. {1}"
+  ],
+  [
+    "Proj {0} depth: {1}",
+    "Ожидаемая глубина на позиции {0} · {1}"
+  ],
+  [
+    "Since scholarship limits are disabled, players can be cut for free, but there is no penalty for having {0}+ players on the team.",
+    "При отключённых лимитах стипендий отчисления бесплатны. За состав из {0} и более игроков штрафа нет."
+  ],
+  [
+    "{0} Players Transferring",
+    "{0} · уходящие на трансфер игроки"
+  ],
+  [
+    "Cut {0} players which were not recommended by HC.",
+    "Отчислены игроки вне рекомендаций главного тренера · {0}."
+  ],
+  [
+    "Cut {0} players on scholarship.",
+    "Отчислены стипендиаты · {0}."
+  ],
+  [
+    "This will move incoming recruits to their teams and begin {0} at 'Position Changes'. Make sure you set Recruiting, Injury, and Schedule settings below, as those can only be changed at this stage.",
+    "Новички присоединятся к командам, а сезон {0} начнётся со смены позиций. Задайте параметры набора, травм и календаря ниже. Их можно менять только на этом этапе."
+  ],
+  [
+    "Added {0}, lost {1}",
+    "Добавлено {0}, потеряно {1}"
+  ],
+  [
+    "Next realignment: {0}",
+    "Следующая перестройка · {0}"
+  ],
+  [
+    "OOC Opponent {0}",
+    "Соперник вне конференции · {0}"
+  ],
+  [
+    "Penalty for unfulfilled contracts: {0}",
+    "Штраф за невыполненные контракты · {0}"
+  ]
+]

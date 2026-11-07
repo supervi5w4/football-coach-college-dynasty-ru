@@ -1,0 +1,45 @@
+name: Публикация релиза
+on:
+  push:
+    branches: [main]
+    paths: ['packages/FCCD-RU-0.2.0.zip']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-v0.2.0
+  cancel-in-progress: false
+jobs:
+  release:
+    if: github.repository == 'supervi5w4/football-coach-college-dynasty-ru'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: '22'
+      - run: python tools/build.py
+      - run: node tests/translator.mjs
+      - run: node tests/templates.mjs
+      - run: node tests/news.mjs
+      - run: python tools/verify_package.py
+      - name: Publish verified ZIP
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          if gh release view v0.2.0 >/dev/null 2>&1; then
+            echo 'Release v0.2.0 already exists; leaving it unchanged.'
+            exit 0
+          fi
+          gh release create v0.2.0 \
+            packages/FCCD-RU-0.2.0.zip packages/SHA256SUMS.txt \
+            --target "$GITHUB_SHA" \
+            --title 'Русификатор 0.2.0 · Football Coach: College Dynasty' \
+            --notes-file docs/releases/0.2.0.md \
+            --latest

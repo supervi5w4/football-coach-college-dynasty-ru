@@ -1,0 +1,19 @@
+{
+  "release": "0.2.0",
+  "gameVersion": "1.6.5",
+  "steamBuild": 19732424,
+  "dictionaryEntries": 4987,
+  "templatesVerified": 1151,
+  "semanticChecksPassed": 63,
+  "realNewsWeek3": 11,
+  "realNewsWeek4": 10,
+  "installedArchiveSha256": "9A4D6FAA976654553496AC2065A354B1DB3E0ACA8F4D67681F164557548E7E4A",
+  "originalBackupSha256": "4AE39A06B3D4CEB30307A82403D2B42CD25459B256D2799F350717A5F992263C",
+  "originalGameModulesUnchanged": true,
+  "originalProfileFilesUnchanged": 4,
+  "copyMatchResult": "MSST 10 - UF 45",
+  "copyAdvancedToWeek": 4,
+  "upgradeFromVersion": "0.1.0",
+  "rollbackAndReinstallVerified": true,
+  "zipMatchesPackage": true
+}

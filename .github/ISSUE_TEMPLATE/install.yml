@@ -1,0 +1,22 @@
+name: Проблема установки или отката
+description: Установщик не работает или игра не запускается после установки
+title: "[Установка] "
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: Версии Windows, игры и русификатора
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Сообщение установщика и шаги воспроизведения
+      description: Приложите точный текст ошибки. Не прикладывайте сохранения и оригинальный архив игры.
+    validations:
+      required: true
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Другие моды и изменения
+      description: Укажите, установлены ли другие моды и обновлялась ли игра через Steam.
